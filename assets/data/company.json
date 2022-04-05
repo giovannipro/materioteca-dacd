@@ -1,0 +1,13 @@
+{
+	"company": [
+		{
+			"id": 23545,
+			"name": "Cristallina SA",
+			"address": "CH-6695 Peccia",
+			"material": [{
+				"id": 23545,
+				"name": "Marmo Cristallina di Peccia"
+			}] 
+		}
+	]
+}

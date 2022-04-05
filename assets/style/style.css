@@ -1,0 +1,85 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, p, ol, ul, li {
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+main {
+	width: 90%;
+	padding: 5rem 0;
+	margin: 0 auto;
+}
+
+/* --- header --- */
+
+header {
+	line-height: 2rem;
+	padding: 0.5rem;
+	background-color:  black;
+	color:  white;
+	width: 100%;
+	position: fixed;
+	margin-bottom: 2.5rem;
+}
+
+header a{
+	text-decoration: none;
+	color:  white;
+}
+
+/* --- material title --- */
+
+#id {
+	font-size: 0.8rem;
+	margin-bottom: 1rem;
+}
+
+#subtitle {
+	font-size: 0.8rem;
+}
+
+h2 {
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+li {
+	font-size: 0.8rem;
+}
+
+/* --- material detail --- */
+
+#material_title {
+	margin-bottom: 2.5rem;
+}
+
+#material_detail {
+	list-style: none;
+	margin-bottom: 2.5rem;
+}
+
+#material_detail > li {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	border-bottom: 1px solid gray;
+	padding: 0.5rem 0;
+}
+
+#sample {
+	background-color: #e6e6e6;
+	margin-bottom: 2rem;
+	padding: 1rem;
+}
+
+footer {
+	width: 90%;
+	padding: 2rem 0;
+	margin: 0 auto;
+}

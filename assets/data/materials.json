@@ -1,0 +1,33 @@
+{
+	"material": [
+		{
+			"id": 23545,
+			"name": "Marmo Cristallina di Peccia",
+			"loan": true,
+			"size": "100 kg",
+			"info": [{
+				"material":"ceramica",
+				"finitures":[
+					"facciata",
+					"parete interna",
+					"pavimento interno",
+					"pavimento esterno"
+				]
+			}],
+			"sample": [{
+					"id": 23540,
+					"name": "Marmo Cristallina Fantastico"
+				}
+			],
+			"company": [{
+				"id": 23539,
+				"relation":"Distribuito da",
+				"name": "Cristallina SA",
+				"address": "CH-6695 Peccia",
+				"link": "cristallina-23539"
+			}]
+
+		}
+
+	]
+}
