@@ -60,23 +60,100 @@ li {
 	margin-bottom: 2.5rem;
 }
 
-#material_detail {
+.material_detail {
 	list-style: none;
-	margin-bottom: 2.5rem;
+	margin:  2.5rem 0;
 }
 
-#material_detail > li {
+.material_detail > li:first-child {
+	font-weight: bold;
+	border-bottom: 2px solid black;
+}
+
+/*.material_detail >li:last-child {
+	border-bottom: 2px solid black;
+}*/
+
+.material_detail > li {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	border-bottom: 1px solid gray;
 	padding: 0.5rem 0;
 }
 
+.material_detail .link {
+	font-weight: bold;
+}
+
+.material_detail .link div:nth-child(2) a {
+	display: flex;
+	justify-content: space-between;
+	text-decoration: none;
+	color:  black;
+}
+
+.material_detail .link div:nth-child(2) a:hover {
+	color:  red;
+} 
+
 #sample {
 	background-color: #e6e6e6;
 	margin-bottom: 2rem;
 	padding: 1rem;
 }
+
+/* --- link list --- */
+
+.list {
+	margin:  2.5rem 0;
+}
+
+.list > li {
+	display: grid;
+	grid-template-columns: 1fr;
+	border-bottom: 1px solid gray;
+	padding: 0.5rem 0;
+}
+
+.list li:first-child {
+	border-bottom:  2px solid black;
+}
+
+.list li div a {
+	display: flex;
+	justify-content: space-between;
+	color:  black;
+}
+
+.list li div a:hover {
+	color: red;
+}
+
+.list > li a {
+	text-decoration: none;
+}
+
+.list > li:first-child {
+	font-weight:  bold;
+}
+
+.two_col div {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.two_col a {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.two_col .link {
+	display: flex;
+	justify-content: space-between;
+}
+
+/* --- footer --- */
+
 
 footer {
 	width: 90%;

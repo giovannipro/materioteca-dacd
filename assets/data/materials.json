@@ -1,32 +1,67 @@
 {
-	"material": [
+	"materiale": [
 		{
 			"id": 23545,
-			"name": "Marmo Cristallina di Peccia",
-			"loan": true,
-			"size": "100 kg",
+			"nome": "Marmo Cristallina di Peccia",
+			"azienda": [{
+				"id": 23539,
+				"nome": "Cristallina SA",
+				"relazione":"Distribuito da",
+				"indirizzo": "CH-6695 Peccia"
+			}],
 			"info": [{
-				"material":"ceramica",
-				"finitures":[
+				"materiale":"ceramica",
+				"materiale_dettaglio":"pietra naturale",
+				"applicazioni":[
 					"facciata",
 					"parete interna",
 					"pavimento interno",
 					"pavimento esterno"
+				],
+				"arredamento":[
+					"arredamento interno",
+					"bagno",
+					"cucina"
+				],
+				"forme":[
+					"lastre",
+					"blocchi"
+				],
+				"peso":"24'520 - 27'470",
+				"massa":"2'600 - 2'900",
+				"resistenza":"75 - 240",
+				"proprieta":[
+					"rigido",
+					"compatto",
+					"decorativo",
+					"naturale"
+				],
+				"finiture":[
+					"sabbiato",
+					"satinato",
+					"levigato",
+					"lucidato"
 				]
 			}],
-			"sample": [{
-					"id": 23540,
-					"name": "Marmo Cristallina Fantastico"
-				}
+			"links": [{
+				"nome":"Sito web cava Cristallina a Peccia",
+				"link":"https://www.cristallinamarmo.ch/"
+			},
+			{
+				"nome":"Scheda tecnica sulle caratteristiche",
+				"link":"https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/Certificato-CE-cristallina-IT.pdf"
+			},
+			{
+				"nome":"scheda tecnica sulle lavorazioni",
+				"link":"https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/scheda-lavorazioni-prodotti-IT.pdf"
+			}
 			],
-			"company": [{
-				"id": 23539,
-				"relation":"Distribuito da",
-				"name": "Cristallina SA",
-				"address": "CH-6695 Peccia",
-				"link": "cristallina-23539"
-			}]
-
+			"campioni": [{
+					"id": 23540,
+					"nome": "Marmo Cristallina Fantastico",
+					"indirizzo": "CH-6695 Peccia"
+				}
+			]
 		}
 
 	]
