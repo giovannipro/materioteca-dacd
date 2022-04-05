@@ -17,6 +17,16 @@ main {
 	margin: 0 auto;
 }
 
+h2 {
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 0.8rem;
+	font-weight: bold;
+}
+
 /* --- header --- */
 
 header {
@@ -26,7 +36,7 @@ header {
 	color:  white;
 	width: 100%;
 	position: fixed;
-	margin-bottom: 2.5rem;
+	margin-bottom: 2rem;
 }
 
 header a{
@@ -37,17 +47,12 @@ header a{
 /* --- material title --- */
 
 #id {
-	font-size: 0.8rem;
+	font-size: 0.7rem;
 	margin-bottom: 1rem;
 }
 
 #subtitle {
 	font-size: 0.8rem;
-}
-
-h2 {
-	font-size: 2rem;
-	font-weight: bold;
 }
 
 li {
@@ -57,22 +62,19 @@ li {
 /* --- material detail --- */
 
 #material_title {
-	margin-bottom: 2.5rem;
+	margin-bottom: 3rem;
 }
 
 .material_detail {
 	list-style: none;
-	margin:  2.5rem 0;
+	margin:  2rem 0;
 }
 
 .material_detail > li:first-child {
 	font-weight: bold;
 	border-bottom: 2px solid black;
+	grid-template-columns: 1fr;
 }
-
-/*.material_detail >li:last-child {
-	border-bottom: 2px solid black;
-}*/
 
 .material_detail > li {
 	display: grid;
@@ -105,7 +107,7 @@ li {
 /* --- link list --- */
 
 .list {
-	margin:  2.5rem 0;
+	margin:  2rem 0;
 }
 
 .list > li {
@@ -133,11 +135,15 @@ li {
 	text-decoration: none;
 }
 
+.list > li a:hover {
+	color:  red;
+}
+
 .list > li:first-child {
 	font-weight:  bold;
 }
 
-.two_col div {
+.two_col > div {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 }
@@ -145,6 +151,7 @@ li {
 .two_col a {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
+	color:  black;
 }
 
 .two_col .link {
@@ -152,8 +159,25 @@ li {
 	justify-content: space-between;
 }
 
-/* --- footer --- */
+/* --- samples --- */
 
+/*#samples {
+	margin-bottom: 2.5rem;
+}
+
+#samples li:first-child {
+	display: grid;
+	grid-template-columns: 1fr;
+	border-bottom:  2px solid black;
+	padding: 0.5rem 0;
+}*/
+
+img {
+	width:  100%;
+	height:  auto;
+}
+
+/* --- footer --- */
 
 footer {
 	width: 90%;

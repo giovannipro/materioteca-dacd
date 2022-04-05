@@ -12,7 +12,7 @@
 	</div>
 
 	<ul class="list">
-		<li><div>Azienda</div></li>
+		<li><div><h3>Azienda<h3></div></li>
 
 		{{#each azienda}}
 		<li class="two_col">
@@ -32,7 +32,7 @@
 	<ul class="material_detail">
 		{{#each info}}
 
-		<li><div>Informazioni</div></li>
+		<li><div><h3>Informazioni</h3></div></li>
 
 		<li>
 			<div>Materia</div>
@@ -117,7 +117,7 @@
 
 	<ul class="material_detail">
 
-		<li><div>Caratteristiche tecniche</div></li>
+		<li><div><h3>Caratteristiche tecniche</h3></div></li>
 
 		<li>
 			<div>Peso specifico</div>
@@ -139,9 +139,9 @@
 
 
 	<ul class="list">
-		<li><div>Complementi</div></li>
+		<li><div><h3>Complementi</h3></div></li>
 
-		{{#each links}}
+		{{#each link}}
 		<li>
 			<div>
 				<a href="{{link}}">
@@ -152,45 +152,45 @@
 		{{/each}}
 	</ul>
 
-
-	{{!-- 
-
-	{{#each company}}
-	<div style="margin-bottom: 3rem">
-		<a href="aziende/{{link}}.html">
-		{{name}} 
-		</a>
-	</div>
-	{{/each}}
+	{{!-- campioni --}}
 
 	<div id="samples">
-		<h3 style="margin-bottom: 1rem;">
-			Campioni
-		</h3>
+		<div><h3>Campioni</h3></div>
 
-		{{#each sample}}
-		<ul id="sample">
+		<ul>
+		{{#each prodotto}}
+				<ul>
+					
+					<li style="margin-bottom: 2rem;">
+						<div>#{{id}}</div>
+						<div>{{nome}}</div>
+						<div>{{descrizione}}</div>
+					</li>
 
-			<li>
-			{{id}} 
-			</li>
+					<ul>
+					{{#each campione}}
+						<li style="margin-bottom: 2rem;">
+							<div>{{id}}</div>
+							
+							<div>{{dimensioni.larghezza}} x {{dimensioni.lunghezza}} cm</div>
+							<div>{{peso}} g</div>
+							<div>{{collocazione.luogo}} · fila {{collocazione.fila}}</div>
+							<div>prestito: {{prestito}}</div>
 
-			<li>
-			{{name}} 
-			</li>
+							<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{immagine.didascalia}}">
+							<p>{{immagine.didascalia}}</p>
 
-			<li>
-			{{value}} 
-			</li>
+						</li>
+					{{/each}}
+					</ul>
 
-			<div>
-				<img src="assets/images/{{image}}.png" style="width: 100%; height: auto;">
-			</div>
+				</ul>
 
-		</ul>
 		{{/each}}
+		</ul>
+
+
 	</div>
 
-	--}}
 
 {{/each}}

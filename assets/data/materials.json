@@ -28,8 +28,8 @@
 					"blocchi"
 				],
 				"peso":"24'520 - 27'470",
-				"massa":"2'600 - 2'900",
-				"resistenza":"75 - 240",
+				"massa":"2'707",
+				"resistenza":"61",
 				"proprieta":[
 					"rigido",
 					"compatto",
@@ -43,7 +43,7 @@
 					"lucidato"
 				]
 			}],
-			"links": [{
+			"link": [{
 				"nome":"Sito web cava Cristallina a Peccia",
 				"link":"https://www.cristallinamarmo.ch/"
 			},
@@ -56,13 +56,63 @@
 				"link":"https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/scheda-lavorazioni-prodotti-IT.pdf"
 			}
 			],
-			"campioni": [{
+			"prodotto": [{
 					"id": 23540,
 					"nome": "Marmo Cristallina Fantastico",
-					"indirizzo": "CH-6695 Peccia"
-				}
+					"descrizione": "marmo di colore grigio con venature bianche",
+					"campione":[{
+						"id":"EM000009405709",
+						"dimensioni":{
+							"larghezza":30,
+							"lunghezza":20
+						},
+						"peso": "1000 – 5000",
+						"collocazione" : {
+							"luogo": "parete A",
+							"fila": 5
+						},
+						"immagine": {
+							"didascalia":"dettaglio marmo Cristallina Fantastico",
+							"link":"23540_Cristallina Fantastico_quadro"
+						},
+						"prestito": false
+					},
+				{
+						"id":"EM000009405685",
+						"dimensioni":{
+							"larghezza":20,
+							"lunghezza":15
+						},
+						"peso": "1000 – 5000",
+						"collocazione" : {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia":"marmo Cristallina Fantastico",
+							"link":"23540_Cristallina Fantastico_2_quadro"
+						},
+						"prestito": true
+					},
+					{
+						"id":"EM000009405686",
+						"dimensioni":{
+							"larghezza":20,
+							"lunghezza":15
+						},
+						"peso": "1000 – 5000",
+						"collocazione" : {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia":"marmo Cristallina Fantastico",
+							"link":"23540_Cristallina Fantastico_2_quadro"
+						},
+						"prestito": true
+					}
+				]}
 			]
 		}
-
 	]
 }
