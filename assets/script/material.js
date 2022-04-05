@@ -1,7 +1,7 @@
 function materials() {
 
 	var tpl_material_source = "../../assets/template/material.tpl";
-	var data_source = "../../assets/data/materials.json";
+	var data_source = "../../assets/data/material.json";
 	var target = "#material";
 
 	$.get(tpl_material_source, function(tpl) {
