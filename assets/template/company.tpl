@@ -31,9 +31,9 @@
 
 			<div class="space">
 				
-				<a href="../../materiale/23545/" class="link">
+				<a href="../../materiale/{{product_id}}/" class="link">
 					<p style="display: flex; justify-content: space-between; padding: 0.5rem 0;">
-						<span>#{{id}} · {{nome}}</span>
+						<span>#{{id}} · <strong>{{nome}}</strong></span>
 						<span>→</span>
 					</p>
 				</a>

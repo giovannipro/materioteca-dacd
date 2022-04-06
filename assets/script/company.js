@@ -1,7 +1,9 @@
 function company() {
 
+	const com_id = document.title.split(" ")[0];
+
 	const tpl_company_source = "../../assets/template/company.tpl";
-	const data_source = "../../assets/data/company.json";
+	const data_source = "../../assets/data/company_" + com_id + ".json";
 	const target = "#company";
 
 	$.get(tpl_company_source, function(tpl) {
