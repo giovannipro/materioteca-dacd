@@ -33,6 +33,18 @@ img {
 }
 
 
+/* --- home --- */
+
+.home div {
+	margin:  1rem 0 0; 
+	border-bottom: 1px solid gray;
+	padding: 0  0 1rem;
+}
+
+.home p:first-child {
+	margin-bottom:  1rem;
+}
+
 /* --- header --- */
 
 header {
