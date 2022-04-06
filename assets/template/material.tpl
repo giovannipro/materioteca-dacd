@@ -148,7 +148,7 @@
 		{{#each link}}
 		<li>
 			<div>
-				<a href="{{link}}">
+				<a href="{{link}}" target="_blank" title="{{nome}}">
 					<span>{{nome}}</span><span>↗</span>
 				</a>
 			</div>
@@ -167,8 +167,7 @@
 			<div class="space">
 				<a name="{{id}}"></a>
 					
-				<p>#{{id}}</p>
-				<p>{{nome}}</p>
+				<p>#{{id}} · <strong>{{nome}}</strong></p>
 				<p>{{descrizione}}</p>
 
 				<div class="image">
@@ -200,9 +199,6 @@
 				<li>
 					<div>Prestito</div>
 					<div>{{loan prestito}}</div>
-				</li>
-
-
 				</li>
 
 			</ul>

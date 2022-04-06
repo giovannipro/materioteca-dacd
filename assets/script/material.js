@@ -1,12 +1,13 @@
 function materials() {
 
-	var tpl_material_source = "../../assets/template/material.tpl";
-	var data_source = "../../assets/data/material.json";
-	var target = "#material";
+	let tpl_material_source = "../../assets/template/material.tpl";
+	let data_source = "../../assets/data/material.json";
+	let target = "#material";
 
 	$.get(tpl_material_source, function(tpl) {
 		$.getJSON(data_source, function(data) {
-			var template = Handlebars.compile(tpl); 
+
+			let template = Handlebars.compile(tpl); 
 			$(target).html(template(data));
 
 			console.log(data)

@@ -2,7 +2,7 @@
 	"materiale": [{
 		"id": 23545,
 		"nome": "Marmo Cristallina di Peccia",
-		"copertina": "23540_Cristallina Fantastico_quadro",
+		"copertina": "23540_Cristallina_Fantastico_quadro",
 		"azienda": [{
 			"id": 23539,
 			"nome": "Cristallina SA",
@@ -62,7 +62,7 @@
 				"descrizione": "marmo di colore grigio con venature bianche",
 				"immagine": {
 					"didascalia": "dettaglio marmo Cristallina Fantastico",
-					"link": "23540_Cristallina Fantastico_quadro"
+					"link": "23540_Cristallina_Fantastico_quadro"
 				},
 				"campione": [{
 						"id": "EM000009405709",
@@ -123,7 +123,7 @@
 				"descrizione": "marmo caratterizzato da un particolare colore viola e venature grigio chiaro",
 				"immagine": {
 					"didascalia": "dettaglio marmo Cristallina Violet",
-					"link": "23542_Cristallina Violet_quadro"
+					"link": "23542_Cristallina_Violet_quadro"
 				},
 				"campione": [{
 						"id": "EM000009405716",
@@ -200,7 +200,7 @@
 				"descrizione": "marmo caratterizzato da tonalità grigia con venature marroni",
 				"immagine": {
 					"didascalia": "marmo Cristallina Pearl-Grey",
-					"link": "23339_Cristallina Pearl Grey_quadro"
+					"link": "23339_Cristallina_Pearl_Grey_quadro"
 				},
 				"campione": [{
 					"id": "EM000009405655",
@@ -322,7 +322,7 @@
 				"descrizione": "marmo bianco caratterizzato da macchie nere",
 				"immagine": {
 					"didascalia": "marmo Cristallina Black and White",
-					"link": "23543_Cristallina Black and White_quadro"
+					"link": "23543_Cristallina_Black_and_White_quadro"
 				},
 				"campione": [{
 						"id": "EM000009405682",
@@ -366,7 +366,7 @@
 				"descrizione": "marmo bianco caratterizzato da macchie nere",
 				"immagine": {
 					"didascalia": "marmo Cristallina Green",
-					"link": "23541_Cristallina Green_quadro"
+					"link": "23541_Cristallina_Green_quadro"
 				},
 				"campione": [{
 						"id": "EM000009405691",
@@ -525,7 +525,7 @@
 				"descrizione": "marmo di colore bianco avoro con venature bianche",
 				"immagine": {
 					"didascalia": "",
-					"link": "23340_Cristallina Ivory_quadro"
+					"link": "23340_Cristallina_Ivory_quadro"
 				},
 				"campione": [{
 						"id": "EM000009405708",
@@ -672,7 +672,7 @@
 				"descrizione": "marmo caratterizzato da un fondo di colore bianco cristallino con venature grigie",
 				"immagine": {
 					"didascalia": "",
-					"link": "23544_Crsitallina Arabescato_quadro"
+					"link": "23544_Cristallina_Arabescato_quadro"
 				},
 				"campione": [{
 						"id": "EM000009405707",
@@ -734,7 +734,7 @@
 				"descrizione": "marmo caratterizzato da un fondo di colore bianco caldo con venature grigie chiare, scure e marroni",
 				"immagine": {
 					"didascalia": "",
-					"link": "23338_Cristallina White_quadro"
+					"link": "23338_Cristallina_White_quadro"
 				},
 				"campione": [{
 						"id": "EM000009402283",
@@ -820,6 +820,152 @@
 							"link": ""
 						},
 						"prestito": true
+					},
+					{
+						"id": "EM000009405714",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parete A",
+							"fila": 3
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009402505",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009402579",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					}
+				]
+			},
+			{
+				"id": 23341,
+				"nome": "Marmo Cristallina Brown",
+				"descrizione": "marmo caratterizzato da un colore marrone caldo e venature bianche",
+				"immagine": {
+					"didascalia": "",
+					"link": "23341_Cristallina_Brown_quadro"
+				},
+				"campione": [{
+						"id": "EM000009402284",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parere A",
+							"fila": 3
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009402488",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 8
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 1
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009405687",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009405688",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009405706",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parete A",
+							"fila": 3
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
 					}
 				]
 			}
