@@ -32,6 +32,14 @@ img {
 	height:  auto;
 }
 
+.link {
+	 text-decoration: none;
+	 color:  black;
+}
+
+.link:hover {
+	color:  red;
+}
 
 /* --- home --- */
 

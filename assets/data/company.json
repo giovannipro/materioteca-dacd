@@ -1,13 +1,35 @@
 {
-	"azienda": [
-		{
-			"id": 23545,
-			"name": "Cristallina SA",
-			"address": "CH-6695 Peccia",
-			"material": [{
-				"id": 23545,
-				"name": "Marmo Cristallina di Peccia"
-			}] 
-		}
-	]
+	"azienda": [{
+		"id": 23539,
+		"nome": "Cristallina SA",
+		"indirizzo": "CH-6695 Peccia",
+		"prodotto": [{
+				"id": 23540,
+				"nome": "Marmo Cristallina Fantastico",
+				"descrizione": "marmo di colore grigio con venature bianche",
+				"immagine": {
+					"didascalia": "dettaglio marmo Cristallina Fantastico",
+					"link": "23540_Cristallina Fantastico_quadro"
+				}
+			},
+			{
+				"id": 23542,
+				"nome": "Marmo Cristallina Violet",
+				"descrizione": "marmo caratterizzato da un particolare colore viola e venature grigio chiaro",
+				"immagine": {
+					"didascalia": "dettaglio marmo Cristallina Violet",
+					"link": "23542_Cristallina Violet_quadro"
+				}
+			},
+			{
+				"id": 23339,
+				"nome": "Marmo Cristallina Pearl - Grey",
+				"descrizione": "marmo caratterizzato da tonalità grigia con venature marroni",
+				"immagine": {
+					"didascalia": "marmo Cristallina Pearl-Grey",
+					"link": "23339_Cristallina Pearl Grey_quadro"
+				}
+			}
+		]
+	}]
 }

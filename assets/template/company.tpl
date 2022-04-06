@@ -1,23 +1,52 @@
-<ul>
-{{#each company}}
+{{#each azienda}}
 
-	<li>
-	{{id}} 
-	</li>
+	<div id="material_title">
+		<p id="id">
+			#{{id}} · azienda 
+		</p>
 
-	<li>
-	{{name}} 
-	</li>
+		<h2>
+			{{nome}} 
+		</h2>
 
-	{{#each material}}
-	<ul id="material">
+	</div>
+
+	<ul class="material_detail">
+
+		<li><div><h3>Informazioni</h3></div></li>
+
 		<li>
-			<a href="../{{link}}.html">
-			{{name}} 
-			</a>
+			<div>indirizzo</div>
+			<div>{{indirizzo}}</div>
 		</li>
-		{{/each}}
 	</ul>
 
+	{{!-- campioni --}}
+
+	<div id="samples">
+		<div class="title"><h3>Prodotti</h3></div>
+
+		{{#each prodotto}}
+		<div class="sample">
+
+			<div class="space">
+				
+				<a href="../../materiale/23545/" class="link">
+					<p style="display: flex; justify-content: space-between; padding: 0.5rem 0;">
+						<span>#{{id}} · {{nome}}</span>
+						<span>→</span>
+					</p>
+				</a>
+
+				<div class="image">
+					<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{immagine.didascalia}}">
+				</div>
+
+			</div>
+
+		</div>
+		{{/each}}
+
+	</div>
+
 {{/each}}
-</ul>
