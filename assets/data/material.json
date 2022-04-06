@@ -218,7 +218,7 @@
 						"link": "23339_Cristallina Pearl Grey_2_quadro"
 					},
 					"prestito": true
-				},{
+				}, {
 					"id": "EM000009402282",
 					"dimensioni": {
 						"larghezza": 30,
@@ -234,7 +234,7 @@
 						"link": "23339_Cristallina Pearl Grey_quadro"
 					},
 					"prestito": false
-				},{
+				}, {
 					"id": "EM000009405710",
 					"dimensioni": {
 						"larghezza": 30,
@@ -250,7 +250,7 @@
 						"link": "23339_Cristallina Pearl Grey_quadro"
 					},
 					"prestito": false
-				},{
+				}, {
 					"id": "EM000009405697",
 					"dimensioni": {
 						"larghezza": 20,
@@ -266,7 +266,7 @@
 						"link": "23339_Cristallina Pearl Grey_2_quadro"
 					},
 					"prestito": true
-				},{
+				}, {
 					"id": "EM000009405698",
 					"dimensioni": {
 						"larghezza": 20,
@@ -282,7 +282,7 @@
 						"link": "23339_Cristallina Pearl Grey_2_quadro"
 					},
 					"prestito": true
-				},{
+				}, {
 					"id": "EM000009405712",
 					"dimensioni": {
 						"larghezza": 30,
@@ -298,7 +298,7 @@
 						"link": "23339_Cristallina Pearl Grey_quadro"
 					},
 					"prestito": false
-				},{
+				}, {
 					"id": "EM000009402487",
 					"dimensioni": {
 						"larghezza": 20,
@@ -314,8 +314,514 @@
 						"link": "23339_Cristallina Pearl Grey_2_quadro"
 					},
 					"prestito": true
-				}
-			]
+				}]
+			},
+			{
+				"id": 23543,
+				"nome": "Marmo Cristallina Black and White",
+				"descrizione": "marmo bianco caratterizzato da macchie nere",
+				"immagine": {
+					"didascalia": "marmo Cristallina Black and White",
+					"link": "23543_Cristallina Black and White_quadro"
+				},
+				"campione": [{
+						"id": "EM000009405682",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "marmo Cristallina Black and White",
+							"link": "23543_Cristallina Black and White_2_quadro"
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009405715",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parete A",
+							"fila": 5
+						},
+						"immagine": {
+							"didascalia": "dettaglio marmo Cristallina Black and White",
+							"link": "23543_Cristallina Black and White_quadro"
+						},
+						"prestito": false
+					}
+				]
+			},
+			{
+				"id": 23541,
+				"nome": "Marmo Cristallina Green",
+				"descrizione": "marmo bianco caratterizzato da macchie nere",
+				"immagine": {
+					"didascalia": "marmo Cristallina Green",
+					"link": "23541_Cristallina Green_quadro"
+				},
+				"campione": [{
+						"id": "EM000009405691",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009405692",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009405704",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parete A",
+							"fila": 4
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009405693",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009405694",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					}, {
+						"id": "EM000009405705",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "Parete A",
+							"fila": 4
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					}, {
+						"id": "EM000009405695",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					}, {
+						"id": "EM000009405696",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					}, {
+						"id": "EM000009405711",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parete A",
+							"fila": 4
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					}
+				]
+			},
+			{
+				"id": 23340,
+				"nome": "Marmo Cristallina Ivory",
+				"descrizione": "marmo di colore bianco avoro con venature bianche",
+				"immagine": {
+					"didascalia": "",
+					"link": "23340_Cristallina Ivory_quadro"
+				},
+				"campione": [{
+						"id": "EM000009405708",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parere A",
+							"fila": 4
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009405703",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parere A",
+							"fila": 4
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009402281",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parere A",
+							"fila": 4
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009402435",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "Scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009405702",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "Scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009405701",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "Scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009405700",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "Scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009402489",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 8
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "Scaffale D2",
+							"fila": 1
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					}
+
+				]
+			},
+			{
+				"id": 23544,
+				"nome": "Marmo Cristallina Arabescato",
+				"descrizione": "marmo caratterizzato da un fondo di colore bianco cristallino con venature grigie",
+				"immagine": {
+					"didascalia": "",
+					"link": "23544_Crsitallina Arabescato_quadro"
+				},
+				"campione": [{
+						"id": "EM000009405707",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parere A",
+							"fila": 3
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009405689",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					},
+					{
+
+						"id": "EM000009405690",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					}
+				]
+			},
+			{
+				"id": 23338,
+				"nome": "Marmo Cristallina White",
+				"descrizione": "marmo caratterizzato da un fondo di colore bianco caldo con venature grigie chiare, scure e marroni",
+				"immagine": {
+					"didascalia": "",
+					"link": "23338_Cristallina White_quadro"
+				},
+				"campione": [{
+						"id": "EM000009402283",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parere A",
+							"fila": 3
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009402458",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 8
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009405713",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parete A",
+							"fila": 3
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009405681",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009402539",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "",
+							"link": ""
+						},
+						"prestito": true
+					}
+				]
 			}
 		]
 	}]

@@ -172,7 +172,7 @@
 				<p>{{descrizione}}</p>
 
 				<div class="image">
-					<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{immagine.didascalia}}">
+					<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{nome}}">
 					{{!--<p class="dida">{{immagine.didascalia}}</p>--}}
 				</div>
 
