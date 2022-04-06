@@ -11,6 +11,10 @@
 
 	</div>
 
+	<div id="cover">
+		<img src="../../assets/images/{{copertina}}.jpg" alt="{{nome}}">
+	</div>
+
 	<ul class="list">
 		<li><div><h3>Azienda<h3></div></li>
 
@@ -157,51 +161,53 @@
 	<div id="samples">
 		<div class="title"><h3>Campioni</h3></div>
 
-		<div class="space">
 		{{#each prodotto}}
-				
-			<p>#{{id}}</p>
-			<p>{{nome}}</p>
-			<p>{{descrizione}}</p>
+		<div class="sample">
 
-		</div>
+			<div class="space">
+					
+				<p>#{{id}}</p>
+				<p>{{nome}}</p>
+				<p>{{descrizione}}</p>
 
-		{{#each campione}}
-		<ul id="items">
-		
-			<li>
-				<div>Codice</div>
-				<div>{{id}}</div>
-			</li>
-			<li>
-				<div>Dimensioni</div>
-				<div>{{dimensioni.larghezza}} x {{dimensioni.lunghezza}} cm</div>
-			</li>
-			<li>
-				<div>Peso</div>
-				<div>{{peso}} g</div>
-			</li>
-			<li>
-				<div>Collocazione</div>
-				<div>{{collocazione.luogo}} · fila {{collocazione.fila}}</div>
-			</li>
-			<li>
-				<div>Prestito</div>
-				<div>prestito: {{prestito}}</div>
-			</li>
-
-			<div class="image">
-				<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{immagine.didascalia}}">
-				<p>{{immagine.didascalia}}</p>
 			</div>
 
-			</li>
+			{{#each campione}}
+			<ul id="items">
 
-		</ul>
-		{{/each}}
+				<li>
+					<div>Codice</div>
+					<div>{{id}}</div>
+				</li>
+				<li>
+					<div>Dimensioni</div>
+					<div>{{dimensioni.larghezza}} x {{dimensioni.lunghezza}} cm</div>
+				</li>
+				<li>
+					<div>Peso</div>
+					<div>{{peso}} g</div>
+				</li>
+				<li>
+					<div>Collocazione</div>
+					<div>{{collocazione.luogo}} · fila {{collocazione.fila}}</div>
+				</li>
+				<li>
+					<div>Prestito</div>
+					<div>prestito: {{prestito}}</div>
+				</li>
 
+				<div class="image">
+					<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{immagine.didascalia}}">
+					<p class="dida">{{immagine.didascalia}}</p>
+				</div>
+
+				</li>
+
+			</ul>
+			{{/each}}
+
+		</div>
 		{{/each}}
-	
 
 	</div>
 

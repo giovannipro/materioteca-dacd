@@ -1,118 +1,310 @@
 {
-	"materiale": [
-		{
-			"id": 23545,
-			"nome": "Marmo Cristallina di Peccia",
-			"azienda": [{
-				"id": 23539,
-				"nome": "Cristallina SA",
-				"relazione":"Distribuito da",
-				"indirizzo": "CH-6695 Peccia"
-			}],
-			"info": [{
-				"materiale":"ceramica",
-				"materiale_dettaglio":"pietra naturale",
-				"applicazioni":[
-					"facciata",
-					"parete interna",
-					"pavimento interno",
-					"pavimento esterno"
-				],
-				"arredamento":[
-					"arredamento interno",
-					"bagno",
-					"cucina"
-				],
-				"forme":[
-					"lastre",
-					"blocchi"
-				],
-				"peso":"24'520 - 27'470",
-				"massa":"2'707",
-				"resistenza":"61",
-				"proprieta":[
-					"rigido",
-					"compatto",
-					"decorativo",
-					"naturale"
-				],
-				"finiture":[
-					"sabbiato",
-					"satinato",
-					"levigato",
-					"lucidato"
-				]
-			}],
-			"link": [{
-				"nome":"Sito web cava Cristallina a Peccia",
-				"link":"https://www.cristallinamarmo.ch/"
-			},
-			{
-				"nome":"Scheda tecnica sulle caratteristiche",
-				"link":"https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/Certificato-CE-cristallina-IT.pdf"
-			},
-			{
-				"nome":"Scheda tecnica sulle lavorazioni",
-				"link":"https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/scheda-lavorazioni-prodotti-IT.pdf"
-			}
+	"materiale": [{
+		"id": 23545,
+		"nome": "Marmo Cristallina di Peccia",
+		"copertina": "23540_Cristallina Fantastico_quadro",
+		"azienda": [{
+			"id": 23539,
+			"nome": "Cristallina SA",
+			"relazione": "Distribuito da",
+			"indirizzo": "CH-6695 Peccia"
+		}],
+		"info": [{
+			"materiale": "ceramica",
+			"materiale_dettaglio": "pietra naturale",
+			"applicazioni": [
+				"facciata",
+				"parete interna",
+				"pavimento interno",
+				"pavimento esterno"
 			],
-			"prodotto": [{
-					"id": 23540,
-					"nome": "Marmo Cristallina Fantastico",
-					"descrizione": "marmo di colore grigio con venature bianche",
-					"campione":[{
-						"id":"EM000009405709",
-						"dimensioni":{
-							"larghezza":30,
-							"lunghezza":20
+			"arredamento": [
+				"arredamento interno",
+				"bagno",
+				"cucina"
+			],
+			"forme": [
+				"lastre",
+				"blocchi"
+			],
+			"peso": "24'520 - 27'470",
+			"massa": "2'707",
+			"resistenza": "61",
+			"proprieta": [
+				"rigido",
+				"compatto",
+				"decorativo",
+				"naturale"
+			],
+			"finiture": [
+				"sabbiato",
+				"satinato",
+				"levigato",
+				"lucidato"
+			]
+		}],
+		"link": [{
+				"nome": "Sito web cava Cristallina a Peccia",
+				"link": "https://www.cristallinamarmo.ch/"
+			},
+			{
+				"nome": "Scheda tecnica sulle caratteristiche",
+				"link": "https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/Certificato-CE-cristallina-IT.pdf"
+			},
+			{
+				"nome": "Scheda tecnica sulle lavorazioni",
+				"link": "https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/scheda-lavorazioni-prodotti-IT.pdf"
+			}
+		],
+		"prodotto": [{
+				"id": 23540,
+				"nome": "Marmo Cristallina Fantastico",
+				"descrizione": "marmo di colore grigio con venature bianche",
+				"campione": [{
+						"id": "EM000009405709",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
 						},
 						"peso": "1000 – 5000",
-						"collocazione" : {
+						"collocazione": {
 							"luogo": "parete A",
 							"fila": 5
 						},
 						"immagine": {
-							"didascalia":"dettaglio marmo Cristallina Fantastico",
-							"link":"23540_Cristallina Fantastico_quadro"
+							"didascalia": "dettaglio marmo Cristallina Fantastico",
+							"link": "23540_Cristallina Fantastico_quadro"
 						},
 						"prestito": false
 					},
-				{
-						"id":"EM000009405685",
-						"dimensioni":{
-							"larghezza":20,
-							"lunghezza":15
+					{
+						"id": "EM000009405685",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
 						},
 						"peso": "1000 – 5000",
-						"collocazione" : {
+						"collocazione": {
 							"luogo": "scaffale D2",
 							"fila": 2
 						},
 						"immagine": {
-							"didascalia":"marmo Cristallina Fantastico",
-							"link":"23540_Cristallina Fantastico_2_quadro"
+							"didascalia": "marmo Cristallina Fantastico",
+							"link": "23540_Cristallina Fantastico_2_quadro"
 						},
 						"prestito": true
 					},
 					{
-						"id":"EM000009405686",
-						"dimensioni":{
-							"larghezza":20,
-							"lunghezza":15
+						"id": "EM000009405686",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
 						},
 						"peso": "1000 – 5000",
-						"collocazione" : {
+						"collocazione": {
 							"luogo": "scaffale D2",
 							"fila": 2
 						},
 						"immagine": {
-							"didascalia":"marmo Cristallina Fantastico",
-							"link":"23540_Cristallina Fantastico_2_quadro"
+							"didascalia": "marmo Cristallina Fantastico",
+							"link": "23540_Cristallina Fantastico_2_quadro"
 						},
 						"prestito": true
 					}
-				]}
+				]
+			},
+			{
+				"id": 23542,
+				"nome": "Marmo Cristallina Violet",
+				"descrizione": "marmo caratterizzato da un particolare colore viola e venature grigio chiaro",
+				"campione": [{
+						"id": "EM000009405716",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parete A",
+							"fila": 5
+						},
+						"immagine": {
+							"didascalia": "dettaglio marmo Cristallina Violet",
+							"link": "23542_Cristallina Violet_quadro"
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009405683",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "marmo Cristallina Violet",
+							"link": "23542_Cristallina Violet_2_quadro"
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009405684",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "marmo Cristallina Violet",
+							"link": "23542_Cristallina Violet_2_quadro"
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009402475",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "marmo Cristallina Violet",
+							"link": "23542_Cristallina Violet_2_quadro"
+						},
+						"prestito": true
+					}
+				]
+			}, {
+				"id": 23339,
+				"nome": "Marmo Cristallina Pearl - Grey",
+				"descrizione": "marmo caratterizzato da tonalità grigia con venature marroni",
+				"campione": [{
+					"id": "EM000009405655",
+					"dimensioni": {
+						"larghezza": 20,
+						"lunghezza": 8
+					},
+					"peso": "1000 – 5000",
+					"collocazione": {
+						"luogo": "scaffale D2",
+						"fila": 1
+					},
+					"immagine": {
+						"didascalia": "marmo Cristallina Pearl-Grey",
+						"link": "23339_Cristallina Pearl Grey_2_quadro"
+					},
+					"prestito": true
+				},{
+					"id": "EM000009402282",
+					"dimensioni": {
+						"larghezza": 30,
+						"lunghezza": 20
+					},
+					"peso": "1000 – 5000",
+					"collocazione": {
+						"luogo": "parete A",
+						"fila": 5
+					},
+					"immagine": {
+						"didascalia": "dettaglio marmo Cristallina Pearl-Grey",
+						"link": "23339_Cristallina Pearl Grey_quadro"
+					},
+					"prestito": false
+				},{
+					"id": "EM000009405710",
+					"dimensioni": {
+						"larghezza": 30,
+						"lunghezza": 20
+					},
+					"peso": "1000 – 5000",
+					"collocazione": {
+						"luogo": "parete A",
+						"fila": 5
+					},
+					"immagine": {
+						"didascalia": "dettaglio marmo Cristallina Pearl-Grey",
+						"link": "23339_Cristallina Pearl Grey_quadro"
+					},
+					"prestito": false
+				},{
+					"id": "EM000009405697",
+					"dimensioni": {
+						"larghezza": 20,
+						"lunghezza": 15
+					},
+					"peso": "1000 – 5000",
+					"collocazione": {
+						"luogo": "scaffale D2",
+						"fila": 2
+					},
+					"immagine": {
+						"didascalia": "marmo Cristallina Pearl-Grey",
+						"link": "23339_Cristallina Pearl Grey_2_quadro"
+					},
+					"prestito": true
+				},{
+					"id": "EM000009405698",
+					"dimensioni": {
+						"larghezza": 20,
+						"lunghezza": 15
+					},
+					"peso": "1000 – 5000",
+					"collocazione": {
+						"luogo": "scaffale D2",
+						"fila": 2
+					},
+					"immagine": {
+						"didascalia": "marmo Cristallina Pearl-Grey",
+						"link": "23339_Cristallina Pearl Grey_2_quadro"
+					},
+					"prestito": true
+				},{
+					"id": "EM000009405712",
+					"dimensioni": {
+						"larghezza": 30,
+						"lunghezza": 20
+					},
+					"peso": "1000 – 5000",
+					"collocazione": {
+						"luogo": "parete A",
+						"fila": 5
+					},
+					"immagine": {
+						"didascalia": "dettaglio marmo Cristallina Pearl-Grey",
+						"link": "23339_Cristallina Pearl Grey_quadro"
+					},
+					"prestito": false
+				},{
+					"id": "EM000009402487",
+					"dimensioni": {
+						"larghezza": 20,
+						"lunghezza": 15
+					},
+					"peso": "1000 – 5000",
+					"collocazione": {
+						"luogo": "scaffale D2",
+						"fila": 2
+					},
+					"immagine": {
+						"didascalia": "marmo Cristallina Pearl-Grey",
+						"link": "23339_Cristallina Pearl Grey_2_quadro"
+					},
+					"prestito": true
+				}
 			]
-		}
-	]
+			}
+		]
+	}]
 }

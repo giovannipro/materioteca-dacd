@@ -66,10 +66,14 @@ li {
 	font-size: 0.8rem;
 }
 
+#cover {
+	margin-bottom:  2rem;
+}
+
 /* --- material detail --- */
 
 #material_title {
-	margin-bottom: 3rem;
+	margin-bottom: 0.25rem;
 }
 
 .material_detail {
@@ -114,7 +118,7 @@ li {
 /* --- link list --- */
 
 .list {
-	margin:  2rem 0;
+	margin-bottom: 2rem;
 }
 
 .list > li {
@@ -169,7 +173,6 @@ li {
 /* --- samples --- */
 
 #samples .title {
-	border-bottom: 2px solid black;
 	padding: 0.5rem 0;
 }
 
@@ -178,15 +181,20 @@ li {
 	padding: 0.25rem 0;
 }
 
+.sample {
+	margin-bottom: 3.5rem;
+}
+
 /* --- items --- */
 
 .space {
 	margin-bottom: 1.5rem;
+	border-top: 2px solid black;
 }
 
 #items {
 	border-top: 1px solid gray;
-	margin-bottom: 1rem;
+	margin-bottom: 1.5rem;
 }
 
 #items li {
@@ -197,9 +205,12 @@ li {
 }
 
 #items .image {
-	margin:  0.5rem 0;
+	margin:  0.75rem 0;
 }
 
+#samples .image .dida {
+	font-size: 0.7rem;
+}
 
 /* --- footer --- */
 
