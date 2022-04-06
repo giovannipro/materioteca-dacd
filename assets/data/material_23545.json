@@ -12,6 +12,7 @@
 		"info": [{
 			"materiale": "ceramica",
 			"materiale_dettaglio": "pietra naturale",
+			"descrizione": "roccia metamorfica creata dalla trasforamzione di rocce sedimentarie. Il colore dei marmi dipende dalla presenza di impurità minerali contenute nella roccia originaria",
 			"applicazioni": [
 				"facciata",
 				"parete interna",

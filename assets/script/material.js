@@ -1,8 +1,10 @@
 function materials() {
 
-	let tpl_material_source = "../../assets/template/material.tpl";
-	let data_source = "../../assets/data/material.json";
-	let target = "#material";
+	const mat_id = document.title.split(" ")[0];
+
+	const tpl_material_source = "../../assets/template/material.tpl";
+	const data_source = "../../assets/data/material_" + mat_id +".json";
+	const target = "#material";
 
 	$.get(tpl_material_source, function(tpl) {
 		$.getJSON(data_source, function(data) {

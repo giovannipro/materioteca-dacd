@@ -44,6 +44,11 @@
 		</li>
 
 		<li>
+			<div>Descrizione</div>
+			<div>{{descrizione}}</div>
+		</li>
+
+		<li>
 			<div>Applicazioni</div>
 			<div>
 			<ul>
@@ -190,7 +195,7 @@
 				</li>
 				<li>
 					<div>Dimensioni</div>
-					<div>{{dimensioni.larghezza}} x {{dimensioni.lunghezza}} cm</div>
+					<div>{{dimensioni.larghezza}} × {{dimensioni.lunghezza}} cm</div>
 				</li>
 				<li>
 					<div>Peso</div>
