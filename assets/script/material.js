@@ -14,6 +14,19 @@ function materials() {
 	});
 }
 
+Handlebars.registerHelper('loan', function (value) {
+	if (value == true){
+		return "consentito"
+	}
+	else {
+		return "non consentito"
+	}
+});
+
+Handlebars.registerHelper('n_samples', function (value) {
+	return value
+});
+
 window.addEventListener("load", function(){
     materials();
 });

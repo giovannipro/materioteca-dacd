@@ -170,14 +170,23 @@
 				<p>{{nome}}</p>
 				<p>{{descrizione}}</p>
 
+				<div class="image">
+					<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{immagine.didascalia}}">
+					{{!--<p class="dida">{{immagine.didascalia}}</p>--}}
+				</div>
+
 			</div>
 
 			{{#each campione}}
 			<ul id="items">
 
 				<li>
-					<div>Codice</div>
+					<div>Codice {{n_samples campione}}</div>
 					<div>{{id}}</div>
+				</li>
+				<li>
+					<div>Collocazione</div>
+					<div>{{collocazione.luogo}} · fila {{collocazione.fila}}</div>
 				</li>
 				<li>
 					<div>Dimensioni</div>
@@ -188,18 +197,10 @@
 					<div>{{peso}} g</div>
 				</li>
 				<li>
-					<div>Collocazione</div>
-					<div>{{collocazione.luogo}} · fila {{collocazione.fila}}</div>
-				</li>
-				<li>
 					<div>Prestito</div>
-					<div>{{prestito}}</div>
+					<div>{{loan prestito}}</div>
 				</li>
 
-				<div class="image">
-					<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{immagine.didascalia}}">
-					<p class="dida">{{immagine.didascalia}}</p>
-				</div>
 
 				</li>
 
