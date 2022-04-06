@@ -193,7 +193,7 @@
 				</li>
 				<li>
 					<div>Prestito</div>
-					<div>prestito: {{prestito}}</div>
+					<div>{{prestito}}</div>
 				</li>
 
 				<div class="image">
