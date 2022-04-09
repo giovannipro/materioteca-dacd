@@ -41,7 +41,7 @@
 				<div class="image">
 					<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{immagine.didascalia}}">
 				</div>
-
+				
 			</div>
 
 		</div>

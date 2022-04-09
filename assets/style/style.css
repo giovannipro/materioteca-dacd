@@ -33,12 +33,18 @@ img {
 }
 
 .link {
-	 text-decoration: none;
-	 color:  black;
+	font-size: 0.8rem;
+	text-decoration: none;
+	color:  black;
 }
 
 .link:hover {
 	color:  red;
+}
+
+.flex {
+	display: flex;
+	justify-content: space-between;
 }
 
 /* --- home --- */
@@ -129,7 +135,6 @@ li {
 } 
 
 #sample {
-	background-color: #e6e6e6;
 	margin-bottom: 2rem;
 	padding: 1rem;
 }

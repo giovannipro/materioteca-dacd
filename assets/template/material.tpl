@@ -155,18 +155,24 @@
 		<div class="sample">
 
 			<div class="space">
-				<a name="{{id}}"></a>
+				<a href="{{id}}" class="link">
+					<p class="flex">
+						<span>#{{id}} · <strong>{{nome}}</strong></span>
+						<span>→</span>
+					</p>
+				</a>
 					
-				<p>#{{id}} · <strong>{{nome}}</strong></p>
-				<p>{{descrizione}}</p>
+				<p class="dida">{{descrizione}}</p>
 
-				<div class="image">
-					<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{nome}}">
-					{{!--<p class="dida">{{immagine.didascalia}}</p>--}}
-				</div>
-
+				<a href="{{id}}" class="link">
+					<div class="image">
+						<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{nome}}">
+						{{!--<p class="dida">{{immagine.didascalia}}</p>--}}
+					</div>
+				</a>
 			</div>
 
+			{{!-- 
 			{{#each campione}}
 			<ul id="items">
 
@@ -193,6 +199,7 @@
 
 			</ul>
 			{{/each}}
+			--}}
 
 		</div>
 		{{/each}}
