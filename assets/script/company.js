@@ -12,7 +12,7 @@ function company() {
 			let template = Handlebars.compile(tpl); 
 			$(target).html(template(data));
 
-			console.log(data)
+			// console.log(data);
 		});
 	});
 }
