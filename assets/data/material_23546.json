@@ -14,9 +14,8 @@
 			"materiale_dettaglio": "pietra naturale",
 			"descrizione": "roccia metamorfica creata dalla trasforamzione di rocce sedimentarie. Il colore dei marmi dipende dalla presenza di impurità minerali contenute nella roccia originaria",
 			"applicazioni": [
-				"pavimento interno"
-			],
-			"arredamento": [
+				"pavimento interno",
+				"",
 				"arredamento interno",
 				"bagno",
 				"cucina"

@@ -17,9 +17,8 @@
 				"facciata",
 				"parete interna",
 				"pavimento interno",
-				"pavimento esterno"
-			],
-			"arredamento": [
+				"pavimento esterno",
+				"",
 				"arredamento interno",
 				"bagno",
 				"cucina"

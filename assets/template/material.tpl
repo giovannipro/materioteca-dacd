@@ -64,21 +64,6 @@
 		</li>
 
 		<li>
-			<div>Arredamento</div>
-			<div>
-			<ul>
-				<li>
-				{{#each arredamento}}
-					
-					{{this}}<br/>
-
-				{{/each}}
-				</li>
-			</ul>
-			</div>
-		</li>
-
-		<li>
 			<div>Forme</div>
 			<div>
 			<ul>
