@@ -198,6 +198,7 @@ li {
 
 #samples .title {
 	padding: 0.5rem 0;
+	border-bottom: 2px solid black;
 }
 
 #samples p {
@@ -208,6 +209,20 @@ li {
 .sample {
 	margin-bottom: 3.5rem;
 }
+
+.product_name {
+	margin: 0.5rem 0;
+}
+
+.product_name a {
+	text-decoration: none;
+	color: black;
+}
+
+.product_name a:hover {
+	color: red;
+}
+
 
 /* --- items --- */
 

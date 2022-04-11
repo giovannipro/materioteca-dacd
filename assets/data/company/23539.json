@@ -5,7 +5,7 @@
 		"indirizzo": "CH-6695 Peccia",
 		"prodotto": [{
 				"id": 23540,
-				"product_id": 23545,
+				"id_prodotto": 23545,
 				"nome": "Marmo Cristallina Fantastico",
 				"descrizione": "marmo di colore grigio con venature bianche",
 				"immagine": {
@@ -15,7 +15,7 @@
 			},
 			{
 				"id": 23542,
-				"product_id": 23545,
+				"id_prodotto": 23545,
 				"nome": "Marmo Cristallina Violet",
 				"descrizione": "marmo caratterizzato da un particolare colore viola e venature grigio chiaro",
 				"immagine": {
@@ -25,7 +25,7 @@
 			},
 			{
 				"id": 23339,
-				"product_id": 23545,
+				"id_prodotto": 23545,
 				"nome": "Marmo Cristallina Pearl - Grey",
 				"descrizione": "marmo caratterizzato da tonalità grigia con venature marroni",
 				"immagine": {
@@ -35,7 +35,7 @@
 			},
 			{
 				"id": 23543,
-				"product_id": 23545,
+				"id_prodotto": 23545,
 				"nome": "Marmo Cristallina Black and White",
 				"descrizione": "marmo bianco caratterizzato da macchie nere",
 				"immagine": {
@@ -45,7 +45,7 @@
 			},
 			{
 				"id": 23541,
-				"product_id": 23545,
+				"id_prodotto": 23545,
 				"nome": "Marmo Cristallina Green",
 				"descrizione": "marmo bianco caratterizzato da macchie nere",
 				"immagine": {
@@ -55,7 +55,7 @@
 			},
 			{
 				"id": 23340,
-				"product_id": 23545,
+				"id_prodotto": 23545,
 				"nome": "Marmo Cristallina Ivory",
 				"descrizione": "marmo di colore bianco avoro con venature bianche",
 				"immagine": {
@@ -65,7 +65,7 @@
 			},
 			{
 				"id": 23544,
-				"product_id": 23545,
+				"id_prodotto": 23545,
 				"nome": "Marmo Cristallina Arabescato",
 				"descrizione": "marmo caratterizzato da un fondo di colore bianco cristallino con venature grigie",
 				"immagine": {
@@ -75,7 +75,7 @@
 			},
 			{
 				"id": 23338,
-				"product_id": 23545,
+				"id_prodotto": 23545,
 				"nome": "Marmo Cristallina White",
 				"descrizione": "marmo caratterizzato da un fondo di colore bianco caldo con venature grigie chiare, scure e marroni",
 				"immagine": {
@@ -85,7 +85,7 @@
 			},
 			{
 				"id": 23341,
-				"product_id": 23545,
+				"id_prodotto": 23545,
 				"nome": "Marmo Cristallina Brown",
 				"descrizione": "marmo caratterizzato da un colore marrone caldo e venature bianche",
 				"immagine": {

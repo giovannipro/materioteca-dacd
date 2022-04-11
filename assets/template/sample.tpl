@@ -8,14 +8,20 @@
 		<h2>
 			{{nome}} 
 		</h2>
-		<h3>
-			{{prodotto}}
-		</h3>
+		<h4 class="product_name link">
+			<a href="../../{{id_materiale}}/">
+				<span>← </span><span>{{prodotto}}</span>
+				 · 
+			</a>
+			<a href="../../../azienda/{{azienda.id}}/">
+				<span>{{azienda.nome}}</span>
+			</a>
+		</h4>
 
 	</div>
 
 	<div id="cover">
-		<a href="../../{{material_id}}">
+		<a href="../../{{id_materiale}}">
 			<img src="../../../assets/images/{{immagine.link}}.jpg" alt="{{nome}}">
 		</a>
 	</div>
@@ -28,14 +34,11 @@
 		{{#each item}}
 		<div class="sample">
 
-			<div class="space">
-				<a name="{{id}}"></a>
-					
-				<p>#{{id}}</p>
-
-			</div>
-
-			<ul>
+			<ul id="items">
+				<li>
+					<div>Codice</div>
+					<div>{{id}}</div>
+				</li>
 				<li>
 					<div>Collocazione</div>
 					<div>{{collocazione.luogo}} · fila {{collocazione.fila}}</div>

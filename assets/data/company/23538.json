@@ -5,7 +5,7 @@
 		"indirizzo": "via cave di Marmo 16, CH-6864 Arzo",
 		"prodotto": [{
 				"id": 23346,
-				"product_id": 23546,
+				"id_prodotto": 23546,
 				"nome": "Marmo Brocatello di Arzo",
 				"descrizione": "breccia calcarea di colore rosato omogeneo",
 				"immagine": {
@@ -15,7 +15,7 @@
 			},
 			{
 				"id": 23345,
-				"product_id": 23546,
+				"id_prodotto": 23546,
 				"nome": "Marmo Rosso d'Arzo",
 				"descrizione": "breccia calcarea di colore rosato omogeneo",
 				"immagine": {
@@ -25,7 +25,7 @@
 			},
 			{
 				"id": 23508,
-				"product_id": 23546,
+				"id_prodotto": 23546,
 				"nome": "Marmo Macchiavecchia rossa",
 				"descrizione": "breccia calcarea eterogenea di colorazione sfumata verso il rosso",
 				"immagine": {
@@ -35,7 +35,7 @@
 			},
 			{
 				"id": 23348,
-				"product_id": 23546,
+				"id_prodotto": 23546,
 				"nome": "Marmo Macchiavecchia gialla",
 				"descrizione": "breccia calcarea eterogenea di colorazione sfumata verso il giallo",
 				"immagine": {
@@ -45,7 +45,7 @@
 			},
 			{
 				"id": 23350,
-				"product_id": 23546,
+				"id_prodotto": 23546,
 				"nome": "Marmo Macchiavecchia grigia",
 				"descrizione": "breccia calcarea eterogenea di colorazione sfumata verso il grigio",
 				"immagine": {

@@ -1,0 +1,82 @@
+{
+	"campione": [{
+		"id": 23542,
+		"material_id": 23545,
+		"nome": "Marmo Cristallina Violet",
+		"prodotto":"Marmo Cristallina di Peccia",
+		"descrizione": "marmo caratterizzato da un particolare colore viola e venature grigio chiaro",
+		"immagine": {
+			"didascalia": "dettaglio marmo Cristallina Violet",
+			"link": "23542_Cristallina_Violet_quadro"
+		},
+		"item": [{
+						"id": "EM000009405716",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parete A",
+							"fila": 5
+						},
+						"immagine": {
+							"didascalia": "dettaglio marmo Cristallina Violet",
+							"link": "23542_Cristallina Violet_quadro"
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009405683",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "marmo Cristallina Violet",
+							"link": "23542_Cristallina Violet_2_quadro"
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009405684",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "marmo Cristallina Violet",
+							"link": "23542_Cristallina Violet_2_quadro"
+						},
+						"prestito": true
+					},
+					{
+						"id": "EM000009402475",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "marmo Cristallina Violet",
+							"link": "23542_Cristallina Violet_2_quadro"
+						},
+						"prestito": true
+					}
+				]
+	}]
+}
