@@ -8,6 +8,8 @@
 		<h2>
 			{{nome}} 
 		</h2>
+		<p class="description">{{descrizione}}</p>
+
 		<h4 class="product_name link">
 			<a href="../../{{id_materiale}}/">
 				<span>← </span><span>{{prodotto}}</span>
