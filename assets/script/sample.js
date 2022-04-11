@@ -1,9 +1,10 @@
 function sample() {
 
-	const mat_id = document.title.split(" ")[0];
+	const mat_id = document.getElementById("sample").getAttribute('data-material');
+	const sam_id = document.title.split(" ")[0];
 
 	const tpl_material_source = "../../../assets/template/sample.tpl";
-	const data_source = "../../../assets/data/sample/" + mat_id + ".json";
+	const data_source = "../../../assets/data/sample/" + mat_id + "/" + sam_id + ".json";
 	const target = "#sample";
 
 	$.get(tpl_material_source, function(tpl) {
