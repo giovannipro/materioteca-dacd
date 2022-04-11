@@ -3,94 +3,21 @@
 		"id": 23539,
 		"nome": "Cristallina SA",
 		"indirizzo": "CH-6695 Peccia",
+		"telefono":"+41 91 755 12 21",
+		"mail":"info@cristallinamarmo.ch",
+		"sito_web": 
+		{
+			"nome":"www.cristallinamarmo.ch",
+			"link":"https://www.cristallinamarmo.ch/"
+		},
 		"prodotto": [{
-				"id": 23540,
+				"id": 23545,
 				"id_prodotto": 23545,
 				"nome": "Marmo Cristallina Fantastico",
 				"descrizione": "marmo di colore grigio con venature bianche",
 				"immagine": {
 					"didascalia": "dettaglio marmo Cristallina Fantastico",
 					"link": "23540_Cristallina_Fantastico_quadro"
-				}
-			},
-			{
-				"id": 23542,
-				"id_prodotto": 23545,
-				"nome": "Marmo Cristallina Violet",
-				"descrizione": "marmo caratterizzato da un particolare colore viola e venature grigio chiaro",
-				"immagine": {
-					"didascalia": "dettaglio marmo Cristallina Violet",
-					"link": "23542_Cristallina_Violet_quadro"
-				}
-			},
-			{
-				"id": 23339,
-				"id_prodotto": 23545,
-				"nome": "Marmo Cristallina Pearl - Grey",
-				"descrizione": "marmo caratterizzato da tonalità grigia con venature marroni",
-				"immagine": {
-					"didascalia": "marmo Cristallina Pearl-Grey",
-					"link": "23339_Cristallina_Pearl_Grey_quadro"
-				}
-			},
-			{
-				"id": 23543,
-				"id_prodotto": 23545,
-				"nome": "Marmo Cristallina Black and White",
-				"descrizione": "marmo bianco caratterizzato da macchie nere",
-				"immagine": {
-					"didascalia": "marmo Cristallina Black and White",
-					"link": "23543_Cristallina_Black_and_White_quadro"
-				}
-			},
-			{
-				"id": 23541,
-				"id_prodotto": 23545,
-				"nome": "Marmo Cristallina Green",
-				"descrizione": "marmo bianco caratterizzato da macchie nere",
-				"immagine": {
-					"didascalia": "marmo Cristallina Green",
-					"link": "23541_Cristallina_Green_quadro"
-				}
-			},
-			{
-				"id": 23340,
-				"id_prodotto": 23545,
-				"nome": "Marmo Cristallina Ivory",
-				"descrizione": "marmo di colore bianco avoro con venature bianche",
-				"immagine": {
-					"didascalia": "",
-					"link": "23340_Cristallina_Ivory_quadro"
-				}
-			},
-			{
-				"id": 23544,
-				"id_prodotto": 23545,
-				"nome": "Marmo Cristallina Arabescato",
-				"descrizione": "marmo caratterizzato da un fondo di colore bianco cristallino con venature grigie",
-				"immagine": {
-					"didascalia": "",
-					"link": "23544_Cristallina_Arabescato_quadro"
-				}
-			},
-			{
-				"id": 23338,
-				"id_prodotto": 23545,
-				"nome": "Marmo Cristallina White",
-				"descrizione": "marmo caratterizzato da un fondo di colore bianco caldo con venature grigie chiare, scure e marroni",
-				"immagine": {
-					"didascalia": "",
-					"link": "23338_Cristallina_White_quadro"
-				}
-			},
-			{
-				"id": 23341,
-				"id_prodotto": 23545,
-				"nome": "Marmo Cristallina Brown",
-				"descrizione": "marmo caratterizzato da un colore marrone caldo e venature bianche",
-				"immagine": {
-					"didascalia": "",
-					"link": "23341_Cristallina_Brown_quadro"
 				}
 			}
 		]

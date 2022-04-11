@@ -3,54 +3,21 @@
 		"id": 23538,
 		"nome": "Cave di Arzo",
 		"indirizzo": "via cave di Marmo 16, CH-6864 Arzo",
+		"telefono":"+41 79 324 28 02",
+		"mail":"info@cavediarzo.ch",
+		"sito_web": 
+		{
+			"nome":"www.cavediarzo.ch",
+			"link":"https://www.cavediarzo.ch/"
+		},
 		"prodotto": [{
 				"id": 23346,
 				"id_prodotto": 23546,
-				"nome": "Marmo Brocatello di Arzo",
-				"descrizione": "breccia calcarea di colore rosato omogeneo",
+				"nome": "Marmo delle Cave di Arzo",
+				"descrizione": "roccia metamorfica creata dalla trasforamzione di rocce sedimentarie. Il colore dei marmi dipende dalla presenza di impurità minerali contenute nella roccia originaria",
 				"immagine": {
 					"didascalia": "",
 					"link": "23346_Borcatello_quadro"
-				}
-			},
-			{
-				"id": 23345,
-				"id_prodotto": 23546,
-				"nome": "Marmo Rosso d'Arzo",
-				"descrizione": "breccia calcarea di colore rosato omogeneo",
-				"immagine": {
-					"didascalia": "",
-					"link": "23345_Rosso_dArzo_quadro"
-				}
-			},
-			{
-				"id": 23508,
-				"id_prodotto": 23546,
-				"nome": "Marmo Macchiavecchia rossa",
-				"descrizione": "breccia calcarea eterogenea di colorazione sfumata verso il rosso",
-				"immagine": {
-					"didascalia": "",
-					"link": "23508_Macchiavecchia_rossa_quadro"
-				}
-			},
-			{
-				"id": 23348,
-				"id_prodotto": 23546,
-				"nome": "Marmo Macchiavecchia gialla",
-				"descrizione": "breccia calcarea eterogenea di colorazione sfumata verso il giallo",
-				"immagine": {
-					"didascalia": "",
-					"link": "23348_Macchiavecchia_gialla_quadro"
-				}
-			},
-			{
-				"id": 23350,
-				"id_prodotto": 23546,
-				"nome": "Marmo Macchiavecchia grigia",
-				"descrizione": "breccia calcarea eterogenea di colorazione sfumata verso il grigio",
-				"immagine": {
-					"didascalia": "",
-					"link": "23350_Macchiavecchia_grigia_quadro"
 				}
 			}
 		]

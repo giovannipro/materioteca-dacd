@@ -16,8 +16,26 @@
 		<li><div><h3>Informazioni</h3></div></li>
 
 		<li>
-			<div>indirizzo</div>
+			<div>Indirizzo</div>
 			<div>{{indirizzo}}</div>
+		</li>
+		<li>
+			<div>Telefono</div>
+			<div>
+				<a href="tel:{{telefono}}" class="link">{{telefono}}</a>
+			</div>
+		</li>
+		<li>
+			<div>Mail</div>
+			<div>
+				<a href="mailto:{{mail}}" class="link">{{mail}}</a>
+			</div>
+		</li>
+		<li>
+			<div>Sito web</div>
+			<div>
+				<a href="{{sito_web.link}}" class="link" target="blank">{{sito_web.nome}}</a>
+			</div>
 		</li>
 	</ul>
 
@@ -31,7 +49,7 @@
 
 			<div class="space">
 				
-				<a href="../../materiale/{{id_prodotto}}/{{id}}/" class="link">
+				<a href="../../materiale/{{id_prodotto}}" class="link">
 					<p style="display: flex; justify-content: space-between; padding: 0.5rem 0;">
 						<span>#{{id}} · <strong>{{nome}}</strong></span>
 						<span>→</span>

@@ -12,7 +12,7 @@
 		"info": [{
 			"materiale": "ceramico",
 			"materiale_dettaglio": "pietra naturale",
-			"descrizione": "roccia metamorfica creata dalla trasforamzione di rocce sedimentarie. Il colore dei marmi dipende dalla presenza di impurità minerali contenute nella roccia originaria",
+			"descrizione": "Roccia metamorfica creata dalla trasforamzione di rocce sedimentarie. Il colore dei marmi dipende dalla presenza di impurità minerali contenute nella roccia originaria",
 			"applicazioni": [
 				"pavimento interno",
 				"",
@@ -46,237 +46,47 @@
 		"prodotto": [{
 				"id": 23346,
 				"nome": "Marmo Brocatello di Arzo",
-				"descrizione": "breccia calcarea di colore rosato omogeneo",
+				"descrizione": "Breccia calcarea di colore rosato omogeneo",
 				"immagine": {
 					"didascalia": "",
 					"link": "23346_Borcatello_quadro"
-				},
-				"campione": [{
-					"id": "EM000009402291",
-					"dimensioni": {
-						"larghezza": 30,
-						"lunghezza": 20
-					},
-					"peso": "1000 – 5000",
-					"collocazione": {
-						"luogo": "parete A",
-						"fila": 2
-					},
-					"immagine": {
-						"didascalia": "",
-						"link": ""
-					},
-					"prestito": false
-				}]
+				}
 			},
 			{
 				"id": 23345,
 				"nome": "Marmo Rosso d'Arzo",
-				"descrizione": "breccia calcarea di colore rosato omogeneo",
+				"descrizione": "Breccia calcarea di colore rosato omogeneo",
 				"immagine": {
 					"didascalia": "",
 					"link": "23345_Rosso_dArzo_quadro"
-				},
-				"campione": [{
-						"id": "EM000009402293",
-						"dimensioni": {
-							"larghezza": 27,
-							"lunghezza": 15
-						},
-						"peso": "1000 – 5000",
-						"collocazione": {
-							"luogo": "parete A",
-							"fila": 2
-						},
-						"immagine": {
-							"didascalia": "",
-							"link": ""
-						},
-						"prestito": false
-					},
-					{
-						"id": "EM000009405680",
-						"dimensioni": {
-							"larghezza": 27,
-							"lunghezza": 15
-						},
-						"peso": "1000 – 5000",
-						"collocazione": {
-							"luogo": "scaffale D2",
-							"fila": 1
-						},
-						"immagine": {
-							"didascalia": "",
-							"link": ""
-						},
-						"prestito": true
-					},
-					{
-						"id": "EM000009402292",
-						"dimensioni": {
-							"larghezza": 30,
-							"lunghezza": 20
-						},
-						"peso": "1000 – 5000",
-						"collocazione": {
-							"luogo": "parete A",
-							"fila": 2
-						},
-						"immagine": {
-							"didascalia": "",
-							"link": ""
-						},
-						"prestito": false
-					},
-					{
-						"id": "EM000009402524",
-						"dimensioni": {
-							"larghezza": 20,
-							"lunghezza": 7
-						},
-						"peso": "1000 – 5000",
-						"collocazione": {
-							"luogo": "scaffale D2",
-							"fila": 1
-						},
-						"immagine": {
-							"didascalia": "",
-							"link": ""
-						},
-						"prestito": true
-					}
-				]
+				}
 			},
 			{
 				"id": 23508,
 				"nome": "Marmo Macchiavecchia rossa",
-				"descrizione": "breccia calcarea eterogenea di colorazione sfumata verso il rosso",
+				"descrizione": "Breccia calcarea eterogenea di colorazione sfumata verso il rosso",
 				"immagine": {
 					"didascalia": "",
 					"link": "23508_Macchiavecchia_rossa_quadro"
-				},
-				"campione": [{
-						"id": "EM000009405678",
-						"dimensioni": {
-							"larghezza": 20,
-							"lunghezza": 15
-						},
-						"peso": "1000 – 5000",
-						"collocazione": {
-							"luogo": "scaffale D2",
-							"fila": 1
-						},
-						"immagine": {
-							"didascalia": "",
-							"link": ""
-						},
-						"prestito": true
-					},
-					{
-						"id": "EM000009402288",
-						"dimensioni": {
-							"larghezza": 27,
-							"lunghezza": 15
-						},
-						"peso": "1000 – 5000",
-						"collocazione": {
-							"luogo": "parete A",
-							"fila": 2
-						},
-						"immagine": {
-							"didascalia": "",
-							"link": ""
-						},
-						"prestito": false
-					},
-					{
-						"id": "EM000009405679",
-						"dimensioni": {
-							"larghezza": 27,
-							"lunghezza": 15
-						},
-						"peso": "1000 – 5000",
-						"collocazione": {
-							"luogo": "scaffale D2",
-							"fila": 1
-						},
-						"immagine": {
-							"didascalia": "",
-							"link": ""
-						},
-						"prestito": true
-					}
-				]
+				}
 			},
 			{
 				"id": 23348,
 				"nome": "Marmo Macchiavecchia gialla",
-				"descrizione": "breccia calcarea eterogenea di colorazione sfumata verso il giallo",
+				"descrizione": "Breccia calcarea eterogenea di colorazione sfumata verso il giallo",
 				"immagine": {
 					"didascalia": "",
 					"link": "23348_Macchiavecchia_gialla_quadro"
-				},
-				"campione": [{
-						"id": "EM000009402289",
-						"dimensioni": {
-							"larghezza": 30,
-							"lunghezza": 20
-						},
-						"peso": "1000 – 5000",
-						"collocazione": {
-							"luogo": "parete A",
-							"fila": 2
-						},
-						"immagine": {
-							"didascalia": "",
-							"link": ""
-						},
-						"prestito": false
-					},
-					{
-						"id": "EM000009402521",
-						"dimensioni": {
-							"larghezza": 20,
-							"lunghezza": 8
-						},
-						"peso": "1000 – 5000",
-						"collocazione": {
-							"luogo": "scaffale D2",
-							"fila": 1
-						},
-						"immagine": {
-							"didascalia": "",
-							"link": ""
-						},
-						"prestito": true
-					}
-				]
+				}
 			},
 			{
 				"id": 23350,
 				"nome": "Marmo Macchiavecchia grigia",
-				"descrizione": "breccia calcarea eterogenea di colorazione sfumata verso il grigio",
+				"descrizione": "Breccia calcarea eterogenea di colorazione sfumata verso il grigio",
 				"immagine": {
 					"didascalia": "",
 					"link": "23350_Macchiavecchia_grigia_quadro"
-				},
-				"campione": [{
-					"id": "EM000009402290",
-					"dimensioni": {
-						"larghezza": 30,
-						"lunghezza": 20
-					},
-					"peso": "1000 – 5000",
-					"collocazione": {
-						"luogo": "parete A",
-						"fila": 2
-					},
-					"immagine": {
-						"didascalia": "",
-						"link": ""
-					},
-					"prestito": false
-				}]
+				}
 			}
 		]
 	}]
