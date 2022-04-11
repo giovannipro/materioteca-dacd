@@ -172,39 +172,9 @@
 				</a>
 			</div>
 
-			{{!-- 
-			{{#each campione}}
-			<ul id="items">
-
-				<li>
-					<div>Codice {{n_samples campione}}</div>
-					<div>{{id}}</div>
-				</li>
-				<li>
-					<div>Collocazione</div>
-					<div>{{collocazione.luogo}} · fila {{collocazione.fila}}</div>
-				</li>
-				<li>
-					<div>Dimensioni</div>
-					<div>{{dimensioni.larghezza}} × {{dimensioni.lunghezza}} cm</div>
-				</li>
-				<li>
-					<div>Peso</div>
-					<div>{{peso}} g</div>
-				</li>
-				<li>
-					<div>Prestito</div>
-					<div>{{loan prestito}}</div>
-				</li>
-
-			</ul>
-			{{/each}}
-			--}}
-
 		</div>
 		{{/each}}
 
 	</div>
-
 
 {{/each}}

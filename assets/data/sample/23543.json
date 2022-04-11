@@ -1,0 +1,51 @@
+{
+	"campione": [{
+		"id": 23543,
+		"id_materiale": 23545,
+		"nome": "Marmo Cristallina Black and White",
+		"prodotto":"Marmo Cristallina di Peccia",
+		"azienda": 
+			{"nome":"Cristallina SA",
+				"id":23539
+			},
+		"descrizione": "marmo bianco caratterizzato da macchie nere",
+		"immagine": {
+			"didascalia": "marmo Cristallina Black and White",
+			"link": "23543_Cristallina_Black_and_White_quadro"	
+		},
+		"item": [{
+						"id": "EM000009405682",
+						"dimensioni": {
+							"larghezza": 20,
+							"lunghezza": 15
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "scaffale D2",
+							"fila": 2
+						},
+						"immagine": {
+							"didascalia": "marmo Cristallina Black and White",
+							"link": "23543_Cristallina Black and White_2_quadro"
+						},
+						"prestito": false
+					},
+					{
+						"id": "EM000009405715",
+						"dimensioni": {
+							"larghezza": 30,
+							"lunghezza": 20
+						},
+						"peso": "1000 – 5000",
+						"collocazione": {
+							"luogo": "parete A",
+							"fila": 5
+						},
+						"immagine": {
+							"didascalia": "dettaglio marmo Cristallina Black and White",
+							"link": "23543_Cristallina Black and White_quadro"
+						},
+						"prestito": false
+					}]
+	}]
+}

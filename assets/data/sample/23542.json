@@ -1,9 +1,13 @@
 {
 	"campione": [{
 		"id": 23542,
-		"material_id": 23545,
+		"id_materiale": 23545,
 		"nome": "Marmo Cristallina Violet",
 		"prodotto":"Marmo Cristallina di Peccia",
+		"azienda": 
+			{"nome":"Cristallina SA",
+				"id":23539
+			},
 		"descrizione": "marmo caratterizzato da un particolare colore viola e venature grigio chiaro",
 		"immagine": {
 			"didascalia": "dettaglio marmo Cristallina Violet",
