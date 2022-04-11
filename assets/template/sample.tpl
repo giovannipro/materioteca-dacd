@@ -24,7 +24,7 @@
 
 	<div id="cover">
 		<a href="../../{{id_materiale}}">
-			<img src="../../../assets/images/{{immagine.link}}.jpg" alt="{{nome}}">
+			<img src="../../../assets/images/{{immagine.link}}.jpg" alt="{{nome}}" width="1332" height="709">
 		</a>
 	</div>
 

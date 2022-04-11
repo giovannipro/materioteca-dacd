@@ -12,7 +12,7 @@
 	</div>
 
 	<div id="cover">
-		<img src="../../assets/images/{{copertina}}.jpg" alt="{{nome}}">
+		<img src="../../assets/images/{{copertina}}.jpg" alt="{{nome}}" width="1332" height="709">
 	</div>
 
 	<ul class="list">
@@ -166,8 +166,7 @@
 
 				<a href="{{id}}" class="link">
 					<div class="image">
-						<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{nome}}">
-						{{!--<p class="dida">{{immagine.didascalia}}</p>--}}
+						<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{nome}}" width="1332" height="709">
 					</div>
 				</a>
 			</div>

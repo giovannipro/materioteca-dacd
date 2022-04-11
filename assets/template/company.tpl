@@ -58,7 +58,7 @@
 
 				<div class="image">
 					<a href="../../materiale/{{id_prodotto}}" class="link">
-						<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{immagine.didascalia}}">
+						<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{immagine.didascalia}}" width="1332" height="709">
 					</a>
 				</div>
 				
