@@ -1,0 +1,154 @@
+{
+	"campione": [{
+		"id": 23340,
+		"id_materiale": 23545,
+		"nome": "Marmo Cristallina Ivory",
+		"prodotto": "Marmo Cristallina di Peccia",
+		"azienda": {
+			"nome": "Cristallina SA",
+			"id": 23539
+		},
+		"descrizione": "marmo di colore bianco avoro con venature bianche",
+		"immagine": {
+			"didascalia": "",
+			"link": "23340_Cristallina_Ivory_quadro"
+		},
+		"item": [{
+				"id": "EM000009405708",
+				"dimensioni": {
+					"larghezza": 30,
+					"lunghezza": 20
+				},
+				"peso": "1000 – 5000",
+				"collocazione": {
+					"luogo": "parere A",
+					"fila": 4
+				},
+				"immagine": {
+					"didascalia": "",
+					"link": ""
+				},
+				"prestito": false
+			},
+			{
+				"id": "EM000009405703",
+				"dimensioni": {
+					"larghezza": 30,
+					"lunghezza": 20
+				},
+				"peso": "1000 – 5000",
+				"collocazione": {
+					"luogo": "parere A",
+					"fila": 4
+				},
+				"immagine": {
+					"didascalia": "",
+					"link": ""
+				},
+				"prestito": false
+			},
+			{
+				"id": "EM000009402281",
+				"dimensioni": {
+					"larghezza": 30,
+					"lunghezza": 20
+				},
+				"peso": "1000 – 5000",
+				"collocazione": {
+					"luogo": "parere A",
+					"fila": 4
+				},
+				"immagine": {
+					"didascalia": "",
+					"link": ""
+				},
+				"prestito": false
+			},
+			{
+				"id": "EM000009402435",
+				"dimensioni": {
+					"larghezza": 20,
+					"lunghezza": 15
+				},
+				"peso": "1000 – 5000",
+				"collocazione": {
+					"luogo": "Scaffale D2",
+					"fila": 2
+				},
+				"immagine": {
+					"didascalia": "",
+					"link": ""
+				},
+				"prestito": true
+			},
+			{
+				"id": "EM000009405702",
+				"dimensioni": {
+					"larghezza": 20,
+					"lunghezza": 15
+				},
+				"peso": "1000 – 5000",
+				"collocazione": {
+					"luogo": "Scaffale D2",
+					"fila": 2
+				},
+				"immagine": {
+					"didascalia": "",
+					"link": ""
+				},
+				"prestito": true
+			},
+			{
+				"id": "EM000009405701",
+				"dimensioni": {
+					"larghezza": 20,
+					"lunghezza": 15
+				},
+				"peso": "1000 – 5000",
+				"collocazione": {
+					"luogo": "Scaffale D2",
+					"fila": 2
+				},
+				"immagine": {
+					"didascalia": "",
+					"link": ""
+				},
+				"prestito": true
+			},
+			{
+				"id": "EM000009405700",
+				"dimensioni": {
+					"larghezza": 20,
+					"lunghezza": 15
+				},
+				"peso": "1000 – 5000",
+				"collocazione": {
+					"luogo": "Scaffale D2",
+					"fila": 2
+				},
+				"immagine": {
+					"didascalia": "",
+					"link": ""
+				},
+				"prestito": true
+			},
+			{
+				"id": "EM000009402489",
+				"dimensioni": {
+					"larghezza": 20,
+					"lunghezza": 8
+				},
+				"peso": "1000 – 5000",
+				"collocazione": {
+					"luogo": "Scaffale D2",
+					"fila": 1
+				},
+				"immagine": {
+					"didascalia": "",
+					"link": ""
+				},
+				"prestito": true
+			}
+		]
+	}]
+}
