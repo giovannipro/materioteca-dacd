@@ -12,8 +12,8 @@ h1, h2, h3, h4, p, ol, ul, li {
 }
 
 main {
-	width: 90%;
-	padding: 5rem 0;
+	width: 95%;
+	padding: 4.5rem 0 0;
 	margin: 0 auto;
 }
 
@@ -103,7 +103,6 @@ li {
 
 .material_detail {
 	list-style: none;
-	margin:  2rem 0;
 }
 
 .material_detail > li:first-child {
@@ -141,8 +140,8 @@ li {
 
 /* --- link list --- */
 
-.list {
-	margin-bottom: 2rem;
+.list, .material_detail {
+	margin-bottom: 1.5rem;
 }
 
 .list > li {
@@ -260,7 +259,7 @@ li {
 }
 
 .space .image {
-	margin:  0.75rem 0;
+	margin:  0.12rem 0 0.75rem;
 }
 
 #samples .image .dida {
@@ -270,7 +269,7 @@ li {
 /* --- footer --- */
 
 footer {
-	width: 90%;
+	width: 95%;
 	padding: 2rem 0;
 	margin: 0 auto;
 }
