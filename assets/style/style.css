@@ -116,7 +116,7 @@ li {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	border-bottom: 1px solid gray;
-	padding: 0.5rem 0;
+	padding: 0.25rem 0;
 }
 
 .material_detail .link {
@@ -149,7 +149,7 @@ li {
 	display: grid;
 	grid-template-columns: 1fr;
 	border-bottom: 1px solid gray;
-	padding: 0.5rem 0;
+	padding: 0.25rem 0;
 }
 
 .list li:first-child {
@@ -203,11 +203,11 @@ li {
 
 #samples p {
 	font-size: 0.8rem;
-	padding: 0.25rem 0;
+	padding: 0.12rem 0;
 }
 
 .sample {
-	margin-bottom: 3.5rem;
+	margin-bottom: 2.5rem;
 }
 
 .product_name {
