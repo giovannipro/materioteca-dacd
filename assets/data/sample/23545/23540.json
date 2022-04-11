@@ -3,11 +3,11 @@
 		"id": 23540,
 		"id_materiale": 23545,
 		"nome": "Marmo Cristallina Fantastico",
-		"prodotto":"Marmo Cristallina di Peccia",
-		"azienda": 
-			{"nome":"Cristallina SA",
-				"id":23539
-			},
+		"prodotto": "Marmo Cristallina di Peccia",
+		"azienda": {
+			"nome": "Cristallina SA",
+			"id": 23539
+		},
 		"descrizione": "marmo di colore grigio con venature bianche",
 		"immagine": {
 			"didascalia": "dettaglio marmo Cristallina Violet",

@@ -3,11 +3,11 @@
 		"id": 23350,
 		"id_materiale": 23546,
 		"nome": "Marmo Macchiavecchia grigia",
-		"prodotto":"Marmo delle Cave di Arzo",
-		"azienda": 
-			{"nome":"Cave di Arzo",
-				"id":23538
-			},
+		"prodotto": "Marmo delle Cave di Arzo",
+		"azienda": {
+			"nome": "Cave di Arzo",
+			"id": 23538
+		},
 		"descrizione": "Breccia calcarea di colore rosso intenso e omogeneo con alcune venature di bianco",
 		"immagine": {
 			"didascalia": "",
@@ -29,7 +29,6 @@
 				"link": ""
 			},
 			"prestito": false
-		}
-	]
+		}]
 	}]
 }

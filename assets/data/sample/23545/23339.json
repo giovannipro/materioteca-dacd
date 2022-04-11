@@ -3,11 +3,11 @@
 		"id": 23339,
 		"id_materiale": 23545,
 		"nome": "Marmo Cristallina Pearl - Grey",
-		"prodotto":"Marmo Cristallina di Peccia",
-		"azienda": 
-			{"nome":"Cristallina SA",
-				"id":23539
-			},
+		"prodotto": "Marmo Cristallina di Peccia",
+		"azienda": {
+			"nome": "Cristallina SA",
+			"id": 23539
+		},
 		"descrizione": "marmo caratterizzato da tonalità grigia con venature marroni",
 		"immagine": {
 			"didascalia": "marmo Cristallina Pearl-Grey",

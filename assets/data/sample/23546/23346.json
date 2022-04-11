@@ -3,11 +3,11 @@
 		"id": 23346,
 		"id_materiale": 23546,
 		"nome": "Marmo Brocatello di Arzo",
-		"prodotto":"Marmo delle Cave di Arzo",
-		"azienda": 
-			{"nome":"Cave di Arzo",
-				"id":23538
-			},
+		"prodotto": "Marmo delle Cave di Arzo",
+		"azienda": {
+			"nome": "Cave di Arzo",
+			"id": 23538
+		},
 		"descrizione": "Breccia calcarea di colore rosato omogeneo",
 		"immagine": {
 			"didascalia": "",
