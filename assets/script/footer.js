@@ -8,6 +8,10 @@ function footer() {
 		tpl_source = "../../../../assets/template/footer.tpl";
 		data_source = "../../../../assets/data/website/footer.json";
 	}
+	else if (mat_id.length == 1) { // home
+		tpl_source = "assets/template/footer.tpl";
+		data_source = "assets/data/website/footer.json";
+	}
 	else {
 		tpl_source = "../../assets/template/footer.tpl";
 		data_source = "../../assets/data/website/footer.json";
@@ -20,7 +24,6 @@ function footer() {
 
 			let template = Handlebars.compile(tpl); 
 			$(target).html(template(data));
-			// console.log(data,tpl_source);
 		});
 	});
 }
