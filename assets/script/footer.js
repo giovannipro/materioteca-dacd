@@ -34,6 +34,9 @@ Handlebars.registerHelper('logo', function (value) {
 	if (page.length == 5){
 		return "../../../../assets/images/logo/supsi-logo.png"
 	}
+	else if (page.length == 3){
+		return "assets/images/logo/supsi-logo.png"
+	}
 	else {
 		return "../../assets/images/logo/supsi-logo.png"
 	}
