@@ -13,7 +13,7 @@ h1, h2, h3, h4, p, ol, ul, li {
 
 main {
 	width: 95%;
-	padding: 4.5rem 0 0;
+	padding: 3rem 0 0;
 	margin: 0 auto;
 }
 
@@ -80,7 +80,7 @@ header a{
 
 #id {
 	font-size: 0.7rem;
-	margin-bottom: 1rem;
+	margin: 2rem 0 1rem;
 }
 
 #subtitle {
@@ -269,7 +269,13 @@ li {
 /* --- footer --- */
 
 footer {
-	width: 95%;
-	padding: 2rem 0;
-	margin: 0 auto;
+	padding: 2rem 2.5% 5rem;
+	position: relative;
+	bottom:  0;
+	margin: 0;
+	font-size: 0.8rem;
+}
+
+.materioteca {
+	margin-bottom: 1rem;
 }
