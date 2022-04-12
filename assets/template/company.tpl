@@ -47,7 +47,7 @@
 		{{#each prodotto}}
 		<div class="sample">
 
-			<div class="space">
+			<div class="space" style="border-top:none;">
 				
 				<a href="../../materiale/{{id_prodotto}}" class="link">
 					<p style="display: flex; justify-content: space-between; padding: 0.5rem 0;">
