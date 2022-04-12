@@ -5,8 +5,8 @@ function footer() {
 	let data_source;
 
 	if (mat_id.length == 5){
-		tpl_source = "../../../../assets/template/footer.tpl";
-		data_source = "../../../../assets/data/website/footer.json";
+		tpl_source = "../../../assets/template/footer.tpl";
+		data_source = "../../../assets/data/website/footer.json";
 	}
 	else if (mat_id.length == 3) { // home
 		tpl_source = "assets/template/footer.tpl";
