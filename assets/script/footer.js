@@ -32,7 +32,7 @@ Handlebars.registerHelper('logo', function (value) {
 	const page = document.getElementById("head").getAttribute('data-material');
 
 	if (page.length == 5){
-		return "../../../../assets/images/logo/supsi-logo.png"
+		return "../../../assets/images/logo/supsi-logo.png"
 	}
 	else if (page.length == 3){
 		return "assets/images/logo/supsi-logo.png"
