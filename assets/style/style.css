@@ -2,6 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: Helvetica, Arial, sans-serif;
+	background-color: #ebebeb;
 }
 
 h1, h2, h3, h4, p, ol, ul, li {
@@ -59,6 +60,10 @@ img {
 	margin-bottom:  1rem;
 }
 
+.home p {
+	margin-bottom: 0.5rem;
+}
+
 /* --- header --- */
 
 header {
@@ -68,7 +73,6 @@ header {
 	color:  white;
 	width: 100%;
 	position: fixed;
-	margin-bottom: 2rem;
 }
 
 header a{
@@ -98,7 +102,7 @@ li {
 /* --- material detail --- */
 
 #material_title {
-	margin-bottom: 0.25rem;
+	margin-bottom: 2rem;
 }
 
 .material_detail {
@@ -133,15 +137,10 @@ li {
 	color:  red;
 } 
 
-#sample {
-	margin-bottom: 2rem;
-	padding: 1rem;
-}
-
 /* --- link list --- */
 
 .list, .material_detail {
-	margin-bottom: 1.5rem;
+	margin-bottom: 1.25rem;
 }
 
 .list > li {
@@ -194,6 +193,10 @@ li {
 }
 
 /* --- samples --- */
+
+#samples {
+	margin-bottom: 5rem;
+}
 
 #samples .title {
 	padding: 0.5rem 0;
@@ -269,13 +272,24 @@ li {
 /* --- footer --- */
 
 footer {
-	padding: 2rem 2.5% 5rem;
+	padding: 2rem 2.5% 2rem;
 	position: relative;
 	bottom:  0;
 	margin: 0;
 	font-size: 0.8rem;
+	background-color: white;
+}
+
+.logo {
+	width: 90px;
+	height: auto;
+	margin:  0 0 0.5rem;
 }
 
 .materioteca {
 	margin-bottom: 1rem;
+}
+
+footer .flex {
+	margin-top:  2rem;
 }

@@ -9,20 +9,18 @@
 			{{nome}} 
 		</h2>
 		<p class="description">{{descrizione}}</p>
-
-		<h4 class="product_name link">
-			<a href="../../{{id_materiale}}/">
-				<span>← </span><span>{{prodotto}}</span>
-				 · 
-			</a>
-			<a href="../../../azienda/{{azienda.id}}/">
-				<span>{{azienda.nome}}</span>
-			</a>
-		</h4>
-
 	</div>
 
 	<div id="cover">
+		<h4 class="product_name">
+			<a href="../../{{id_materiale}}/" class="link">
+				<span>← </span><span>{{prodotto}}</span>
+			</a>
+			 · 
+			<a href="../../../azienda/{{azienda.id}}/" class="link">
+				<span>{{azienda.nome}}</span>
+			</a>
+		</h4>
 		<a href="../../{{id_materiale}}">
 			<img src="../../../assets/images/{{immagine.link}}.jpg" alt="{{nome}}" width="1332" height="709">
 		</a>

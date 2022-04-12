@@ -1,6 +1,6 @@
 function sample() {
 
-	const mat_id = document.getElementById("sample").getAttribute('data-material');
+	const mat_id = document.getElementById("head").getAttribute('data-material');
 	const sam_id = document.title.split(" ")[0];
 
 	const tpl_material_source = "../../../assets/template/sample.tpl";

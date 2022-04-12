@@ -1,5 +1,9 @@
 {{#each footer}}
 	
+	<div class="logo">
+		<img src="{{logo A}}">
+	</div>
+
 	<div>
 		{{A}}
 	</div>

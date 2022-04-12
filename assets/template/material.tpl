@@ -11,9 +11,11 @@
 
 	</div>
 
+	{{!--
 	<div id="cover">
 		<img src="../../assets/images/{{copertina}}.jpg" alt="{{nome}}" width="1332" height="709">
 	</div>
+	--}}
 
 	<ul class="list">
 		<li><div><h3>Azienda<h3></div></li>
