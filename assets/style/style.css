@@ -240,18 +240,15 @@ li {
 	margin-bottom: 1.5rem;
 	border-top: 2px solid black;
 }
-
-#items {
+/*
+#samples .sample:not(:first-child) {
 	border-top: 1px solid gray;
 	margin-bottom: 1.5rem;
-}
+}*/
 
 #samples #items {
 	margin-bottom: 0;
-}
-
-#samples #items:nth-child(2){
-	border: none;
+	border-bottom: 1px solid gray;
 }
 
 #items li {

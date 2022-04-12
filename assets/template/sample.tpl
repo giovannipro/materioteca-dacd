@@ -32,32 +32,28 @@
 		<div class="title"><h3>Campioni</h3></div>
 
 		{{#each item}}
-		<div class="sample">
+		<div id="items" class="sample">
 
-			<ul id="items">
-				<li>
-					<div>Codice</div>
-					<div>{{id}}</div>
-				</li>
-				<li>
-					<div>Collocazione</div>
-					<div>{{collocazione.luogo}} · fila {{collocazione.fila}}</div>
-				</li>
-				<li>
-					<div>Dimensioni</div>
-					<div>{{dimensioni.larghezza}} × {{dimensioni.lunghezza}} cm</div>
-				</li>
-				<li>
-					<div>Peso</div>
-					<div>{{peso}} g</div>
-				</li>
-				<li>
-					<div>Prestito</div>
-					<div>{{loan prestito}}</div>
-				</li>
-			</ul>
-
-
+			<li>
+				<div>Codice</div>
+				<div>{{id}}</div>
+			</li>
+			<li>
+				<div>Collocazione</div>
+				<div>{{collocazione.luogo}} · fila {{collocazione.fila}}</div>
+			</li>
+			<li>
+				<div>Dimensioni</div>
+				<div>{{dimensioni.larghezza}} × {{dimensioni.lunghezza}} cm</div>
+			</li>
+			<li>
+				<div>Peso</div>
+				<div>{{peso}} g</div>
+			</li>
+			<li>
+				<div>Prestito</div>
+				<div>{{loan prestito}}</div>
+			</li>
 
 			{{#each item}}
 			<ul id="items">
