@@ -1,0 +1,130 @@
+{
+	"campione": [{
+		"id": 23339,
+		"id_materiale": 23545,
+		"nome": "Marmo Cristallina Pearl - Grey",
+		"prodotto": "Marmo Cristallina di Peccia",
+		"azienda": {
+			"nome": "Cristallina SA",
+			"id": 23539
+		},
+		"descrizione": "Marmo caratterizzato da tonalità grigia con venature marroni",
+		"immagine": {
+			"didascalia": "marmo Cristallina Pearl-Grey",
+			"link": "23339_Cristallina_Pearl_Grey_quadro"
+		},
+		"item": [{
+			"id": "EM000009405655",
+			"dimensioni": {
+				"larghezza": 20,
+				"lunghezza": 8
+			},
+			"peso": "1000 – 5000",
+			"collocazione": {
+				"luogo": "scaffale D2",
+				"fila": 1
+			},
+			"immagine": {
+				"didascalia": "marmo Cristallina Pearl-Grey",
+				"link": "23339_Cristallina Pearl Grey_2_quadro"
+			},
+			"prestito": true
+		}, {
+			"id": "EM000009402282",
+			"dimensioni": {
+				"larghezza": 30,
+				"lunghezza": 20
+			},
+			"peso": "1000 – 5000",
+			"collocazione": {
+				"luogo": "parete A",
+				"fila": 5
+			},
+			"immagine": {
+				"didascalia": "dettaglio marmo Cristallina Pearl-Grey",
+				"link": "23339_Cristallina Pearl Grey_quadro"
+			},
+			"prestito": false
+		}, {
+			"id": "EM000009405710",
+			"dimensioni": {
+				"larghezza": 30,
+				"lunghezza": 20
+			},
+			"peso": "1000 – 5000",
+			"collocazione": {
+				"luogo": "parete A",
+				"fila": 5
+			},
+			"immagine": {
+				"didascalia": "dettaglio marmo Cristallina Pearl-Grey",
+				"link": "23339_Cristallina Pearl Grey_quadro"
+			},
+			"prestito": false
+		}, {
+			"id": "EM000009405697",
+			"dimensioni": {
+				"larghezza": 20,
+				"lunghezza": 15
+			},
+			"peso": "1000 – 5000",
+			"collocazione": {
+				"luogo": "scaffale D2",
+				"fila": 2
+			},
+			"immagine": {
+				"didascalia": "marmo Cristallina Pearl-Grey",
+				"link": "23339_Cristallina Pearl Grey_2_quadro"
+			},
+			"prestito": true
+		}, {
+			"id": "EM000009405698",
+			"dimensioni": {
+				"larghezza": 20,
+				"lunghezza": 15
+			},
+			"peso": "1000 – 5000",
+			"collocazione": {
+				"luogo": "scaffale D2",
+				"fila": 2
+			},
+			"immagine": {
+				"didascalia": "marmo Cristallina Pearl-Grey",
+				"link": "23339_Cristallina Pearl Grey_2_quadro"
+			},
+			"prestito": true
+		}, {
+			"id": "EM000009405712",
+			"dimensioni": {
+				"larghezza": 30,
+				"lunghezza": 20
+			},
+			"peso": "1000 – 5000",
+			"collocazione": {
+				"luogo": "parete A",
+				"fila": 5
+			},
+			"immagine": {
+				"didascalia": "dettaglio marmo Cristallina Pearl-Grey",
+				"link": "23339_Cristallina Pearl Grey_quadro"
+			},
+			"prestito": false
+		}, {
+			"id": "EM000009402487",
+			"dimensioni": {
+				"larghezza": 20,
+				"lunghezza": 15
+			},
+			"peso": "1000 – 5000",
+			"collocazione": {
+				"luogo": "scaffale D2",
+				"fila": 2
+			},
+			"immagine": {
+				"didascalia": "marmo Cristallina Pearl-Grey",
+				"link": "23339_Cristallina Pearl Grey_2_quadro"
+			},
+			"prestito": true
+		}]
+	}]
+}

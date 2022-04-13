@@ -5,7 +5,6 @@ function materials() {
 
 	const tpl_material_source_it = "../../assets/template/material_it.tpl";
 	const tpl_material_source_en = "../../assets/template/material_en.tpl";
-	const data_source = "../../assets/data/material/" + mat_id + "_it.json";
 	const target = "#material";
 
 	function handlebars(tpl_,data_){
@@ -17,7 +16,9 @@ function materials() {
 			});
 		});
 	}
-	handlebars(tpl_material_source_it,data_source)
+
+	const data_source = "../../assets/data/material/" + mat_id + "_it.json";
+	handlebars(tpl_material_source_it,data_source);
 
 	// language switch
 	const switch_ = document.getElementById("switch");
