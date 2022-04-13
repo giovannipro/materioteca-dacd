@@ -1,0 +1,137 @@
+{
+	"materiale": [{
+		"id": 23545,
+		"nome": "Marmo Cristallina di Peccia",
+		"copertina": "23540_Cristallina_Fantastico_quadro",
+		"azienda": [{
+			"id": 23539,
+			"nome": "Cristallina SA",
+			"relazione": "Distribuito da",
+			"indirizzo": "CH-6695 Peccia"
+		}],
+		"info": [{
+			"materiale": "ceramico",
+			"materiale_dettaglio": "pietra naturale",
+			"descrizione": "Roccia metamorfica creata dalla trasforamzione di rocce sedimentarie. Il colore dei marmi dipende dalla presenza di impurità minerali contenute nella roccia originaria.",
+			"applicazioni": [
+				"facciata",
+				"parete interna",
+				"pavimento interno",
+				"pavimento esterno",
+				"",
+				"arredamento interno",
+				"bagno",
+				"cucina"
+			],
+			"forme": [
+				"lastre",
+				"blocchi"
+			],
+			"peso": "24'520 - 27'470",
+			"massa": "2'707",
+			"resistenza": "61",
+			"proprieta": [
+				"rigido",
+				"compatto",
+				"decorativo",
+				"naturale"
+			],
+			"finiture": [
+				"sabbiato",
+				"satinato",
+				"levigato",
+				"lucidato"
+			]
+		}],
+		"link": [
+			{
+				"nome": "Scheda tecnica sulle caratteristiche",
+				"link": "https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/Certificato-CE-cristallina-IT.pdf"
+			},
+			{
+				"nome": "Scheda tecnica sulle lavorazioni",
+				"link": "https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/scheda-lavorazioni-prodotti-IT.pdf"
+			}
+		],
+		"prodotto": [{
+				"id": 23540,
+				"nome": "Marmo Cristallina Fantastico",
+				"descrizione": "Marmo di colore grigio con venature bianche",
+				"immagine": {
+					"didascalia": "dettaglio marmo Cristallina Fantastico",
+					"link": "23540_Cristallina_Fantastico_quadro"
+				}
+			},
+			{
+				"id": 23542,
+				"nome": "Marmo Cristallina Violet",
+				"descrizione": "Marmo caratterizzato da un particolare colore viola e venature grigio chiaro",
+				"immagine": {
+					"didascalia": "dettaglio marmo Cristallina Violet",
+					"link": "23542_Cristallina_Violet_quadro"
+				}
+			}, {
+				"id": 23339,
+				"nome": "Marmo Cristallina Pearl - Grey",
+				"descrizione": "Marmo caratterizzato da tonalità grigia con venature marroni",
+				"immagine": {
+					"didascalia": "marmo Cristallina Pearl-Grey",
+					"link": "23339_Cristallina_Pearl_Grey_quadro"
+				}
+			}, {
+				"id": 23543,
+				"nome": "Marmo Cristallina Black and White",
+				"descrizione": "Marmo bianco caratterizzato da macchie nere",
+				"immagine": {
+					"didascalia": "marmo Cristallina Black and White",
+					"link": "23543_Cristallina_Black_and_White_quadro"
+				}
+			},
+			{
+				"id": 23541,
+				"nome": "Marmo Cristallina Green",
+				"descrizione": "Marmo bianco caratterizzato da macchie nere",
+				"immagine": {
+					"didascalia": "marmo Cristallina Green",
+					"link": "23541_Cristallina_Green_quadro"
+				}
+			},
+			{
+				"id": 23340,
+				"nome": "Marmo Cristallina Ivory",
+				"descrizione": "Marmo di colore bianco avoro con venature bianche",
+				"immagine": {
+					"didascalia": "",
+					"link": "23340_Cristallina_Ivory_quadro"
+				}
+			},
+			{
+				"id": 23544,
+				"nome": "Marmo Cristallina Arabescato",
+				"descrizione": "Marmo caratterizzato da un fondo di colore bianco cristallino con venature grigie",
+				"immagine": {
+					"didascalia": "",
+					"link": "23544_Cristallina_Arabescato_quadro"
+				}
+			},
+			{
+				"id": 23338,
+				"nome": "Marmo Cristallina White",
+				"descrizione": "Marmo caratterizzato da un fondo di colore bianco caldo con venature grigie chiare, scure e marroni",
+				"immagine": {
+					"didascalia": "",
+					"link": "23338_Cristallina_White_quadro"
+				}
+			},
+			{
+				"id": 23341,
+				"nome": "Marmo Cristallina Brown",
+				"descrizione": "Marmo caratterizzato da un colore marrone caldo e venature bianche",
+				"immagine": {
+					"didascalia": "",
+					"link": "23341_Cristallina_Brown_quadro"
+				}
+			}
+		]
+	}]
+}

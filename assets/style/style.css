@@ -101,12 +101,17 @@ img {
 
 /* --- header --- */
 
+#head {
+	display: flex;
+	justify-content: space-between;
+}
+
 header {
 	line-height: 2rem;
-	padding: 0.5rem 0 0.5rem 1rem ;
+	padding: 0.5rem 1rem 0.5rem 1rem ;
 	background-color:  black;
 	color:  white;
-	width: 100%;
+	width: 96%;
 	position: fixed;
 	z-index: 1;
 }
@@ -115,6 +120,11 @@ header a{
 	text-decoration: none;
 	color:  white;
 }
+
+#switch {
+	cursor: pointer;
+}
+
 
 /* --- material title --- */
 

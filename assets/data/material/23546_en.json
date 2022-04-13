@@ -1,0 +1,93 @@
+{
+	"materiale": [{
+		"id": 23546,
+		"nome": "Marmo delle Cave di Arzo",
+		"copertina": "23346_Borcatello_quadro",
+		"azienda": [{
+			"id": 23538,
+			"nome": "Cave di Arzo",
+			"relazione": "Distribuited by",
+			"indirizzo": "via cave di Marmo 16, CH-6695 Peccia"
+		}],
+		"info": [{
+			"materiale": "ceramic",
+			"materiale_dettaglio": "natural stone",
+			"descrizione": "Metamorphic rock created by the transformation of sedimentary rocks. The color of marbles depends on the presence of mineral impurities contained in the original rock.",
+			"applicazioni": [
+				"pavimento interno",
+				"",
+				"interior floor",
+				"bathroom",
+				"kitchen"
+			],
+			"forme": [
+				"lastre",
+				"blocchi"
+			],
+			"peso": "24'520 - 27'470",
+			"massa": "2'600 - 2'900",
+			"resistenza": "75 - 240",
+			"proprieta": [
+				"rigido",
+				"compatto",
+				"decorativo",
+				"naturale"
+			],
+			"finiture": [
+				"sabbiato",
+				"bocciardato",
+				"spacco naturale"
+			]
+		}],
+		"link": [{
+			"nome": "Tipologie e colorazioni del marmo di Arzo",
+			"link": "http://patriziatoarzo.ch/marmo-arzo-artigianato/marmo-di-arzo/"
+		}],
+		"prodotto": [{
+				"id": 23346,
+				"nome": "Marmo Brocatello di Arzo",
+				"descrizione": "Breccia calcarea di colore rosato omogeneo",
+				"immagine": {
+					"didascalia": "",
+					"link": "23346_Borcatello_quadro"
+				}
+			},
+			{
+				"id": 23345,
+				"nome": "Marmo Rosso d'Arzo",
+				"descrizione": "Breccia calcarea di colore rosato omogeneo",
+				"immagine": {
+					"didascalia": "",
+					"link": "23345_Rosso_dArzo_quadro"
+				}
+			},
+			{
+				"id": 23508,
+				"nome": "Marmo Macchiavecchia rossa",
+				"descrizione": "Breccia calcarea eterogenea di colorazione sfumata verso il rosso",
+				"immagine": {
+					"didascalia": "",
+					"link": "23508_Macchiavecchia_rossa_quadro"
+				}
+			},
+			{
+				"id": 23348,
+				"nome": "Marmo Macchiavecchia gialla",
+				"descrizione": "Breccia calcarea eterogenea di colorazione sfumata verso il giallo",
+				"immagine": {
+					"didascalia": "",
+					"link": "23348_Macchiavecchia_gialla_quadro"
+				}
+			},
+			{
+				"id": 23350,
+				"nome": "Marmo Macchiavecchia grigia",
+				"descrizione": "Breccia calcarea eterogenea di colorazione sfumata verso il grigio",
+				"immagine": {
+					"didascalia": "",
+					"link": "23350_Macchiavecchia_grigia_quadro"
+				}
+			}
+		]
+	}]
+}
