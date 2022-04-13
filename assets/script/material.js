@@ -39,7 +39,6 @@ function materials() {
 			tpl = tpl_material_source_it;
 			data = "../../assets/data/material/" + mat_id + "_it.json"
 		}
-
 		handlebars(tpl,data)
 	}
 }

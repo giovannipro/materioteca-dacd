@@ -6,7 +6,7 @@
 		"azienda": [{
 			"id": 23539,
 			"nome": "Cristallina SA",
-			"relazione": "Distribuito da",
+			"relazione": "Distribuited by",
 			"indirizzo": "CH-6695 Peccia"
 		}],
 		"info": [{
@@ -14,7 +14,7 @@
 			"materiale_dettaglio": "pietra naturale",
 			"descrizione": "Roccia metamorfica creata dalla trasforamzione di rocce sedimentarie. Il colore dei marmi dipende dalla presenza di impurità minerali contenute nella roccia originaria.",
 			"applicazioni": [
-				"facciata",
+				"facade",
 				"parete interna",
 				"pavimento interno",
 				"pavimento esterno",
@@ -45,7 +45,7 @@
 		}],
 		"link": [
 			{
-				"nome": "Scheda tecnica sulle caratteristiche",
+				"nome": "Technical sheet",
 				"link": "https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/Certificato-CE-cristallina-IT.pdf"
 			},
 			{
