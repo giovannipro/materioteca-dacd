@@ -1,0 +1,34 @@
+{
+	"campione": [{
+		"id": 23346,
+		"id_materiale": 23546,
+		"nome": "Marmo Brocatello di Arzo",
+		"prodotto": "Marmo delle Cave di Arzo",
+		"azienda": {
+			"nome": "Cave di Arzo",
+			"id": 23538
+		},
+		"descrizione": "Breccia calcarea di colore rosato omogeneo",
+		"immagine": {
+			"didascalia": "",
+			"link": "23346_Borcatello_quadro"
+		},
+		"item": [{
+			"id": "EM000009402291",
+			"dimensioni": {
+				"larghezza": 30,
+				"lunghezza": 20
+			},
+			"peso": "1000 – 5000",
+			"collocazione": {
+				"luogo": "parere A",
+				"fila": 2
+			},
+			"immagine": {
+				"didascalia": "",
+				"link": ""
+			},
+			"prestito": false
+		}]
+	}]
+}

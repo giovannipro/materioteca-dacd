@@ -1,0 +1,69 @@
+{
+	"campione": [{
+		"id": 23508,
+		"id_materiale": 23546,
+		"nome": "Marmo Macchiavecchia rossa",
+		"prodotto": "Marmo delle Cave di Arzo",
+		"azienda": {
+			"nome": "Cave di Arzo",
+			"id": 23538
+		},
+		"descrizione": "Breccia calcarea eterogenea di colorazione sfumata verso il rosso",
+		"immagine": {
+			"didascalia": "",
+			"link": "23508_Macchiavecchia_rossa_quadro"
+		},
+		"item": [{
+				"id": "EM000009405678",
+				"dimensioni": {
+					"larghezza": 20,
+					"lunghezza": 15
+				},
+				"peso": "1000 – 5000",
+				"collocazione": {
+					"luogo": "scaffale D2",
+					"fila": 1
+				},
+				"immagine": {
+					"didascalia": "",
+					"link": ""
+				},
+				"prestito": true
+			},
+			{
+				"id": "EM000009402288",
+				"dimensioni": {
+					"larghezza": 27,
+					"lunghezza": 15
+				},
+				"peso": "1000 – 5000",
+				"collocazione": {
+					"luogo": "parete A",
+					"fila": 2
+				},
+				"immagine": {
+					"didascalia": "",
+					"link": ""
+				},
+				"prestito": false
+			},
+			{
+				"id": "EM000009405679",
+				"dimensioni": {
+					"larghezza": 27,
+					"lunghezza": 15
+				},
+				"peso": "1000 – 5000",
+				"collocazione": {
+					"luogo": "scaffale D2",
+					"fila": 1
+				},
+				"immagine": {
+					"didascalia": "",
+					"link": ""
+				},
+				"prestito": true
+			}
+		]
+	}]
+}
