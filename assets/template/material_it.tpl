@@ -22,7 +22,7 @@
 
 		{{#each azienda}}
 		<li class="two_col">
-			<a href="../../azienda/{{id}}">
+			<a href="../../azienda/{{id}}?lang=it">
 				<div>
 					{{relazione}}
 				</div>
@@ -157,7 +157,7 @@
 		<div class="sample">
 
 			<div class="space">
-				<a href="{{id}}" class="link">
+				<a href="{{id}}?lang=it" class="link">
 					<p class="flex">
 						<span>#{{id}} · <strong>{{nome}}</strong></span>
 						<span>→</span>
@@ -166,7 +166,7 @@
 					
 				<p class="dida">{{descrizione}}</p>
 
-				<a href="{{id}}" class="link">
+				<a href="{{id}}?lang=it" class="link">
 					<div class="image">
 						<img src="../../assets/images/{{immagine.link}}.jpg" alt="{{nome}}" width="1332" height="709">
 					</div>

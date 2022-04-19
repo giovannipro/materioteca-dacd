@@ -13,15 +13,15 @@
 
 	<div id="cover">
 		<h4 class="product_name">
-			<a href="../../{{id_materiale}}/" class="link">
+			<a href="../../{{id_materiale}}?lang=it" class="link">
 				<span>← </span><span>{{prodotto}}</span>
 			</a>
 			 · 
-			<a href="../../../azienda/{{azienda.id}}/" class="link">
+			<a href="../../../azienda/{{azienda.id}}?lang=it" class="link">
 				<span>{{azienda.nome}}</span>
 			</a>
 		</h4>
-		<a href="../../{{id_materiale}}">
+		<a href="../../{{id_materiale}}?lang=it">
 			<img src="../../../assets/images/{{immagine.link}}.jpg" alt="{{nome}}" width="1332" height="709">
 		</a>
 	</div>
