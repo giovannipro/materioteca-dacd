@@ -4,12 +4,6 @@ function footer() {
 	let tpl_source;
 	let data_source;
 
-	const tpl_source_it = "../../../assets/template/footer_it.tpl";
-	const data_source_it = "../../../assets/data/website/footer_it.json";
-
-	const tpl_source_en = "../../../assets/template/footer_en.tpl";
-	const data_source_en = "../../../assets/data/website/footer_en.json";
-
 	if (mat_id.length == 5){ 
 		tpl_source = "../../../assets/template/footer_it.tpl";
 		data_source = "../../../assets/data/website/footer_it.json";
@@ -35,7 +29,7 @@ function footer() {
 		});
 	}
 
-	handlebars_footer(tpl_source_it,data_source_it)
+	handlebars_footer(tpl_source,data_source)
 }
 
 Handlebars.registerHelper('logo', function (value) {
