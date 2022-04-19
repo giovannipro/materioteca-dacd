@@ -59,7 +59,7 @@ function sample() {
 	function switch_it(){
 
 		let language = switch_.getAttribute("data-lang");
-		console.log(language)
+		// console.log(language)
 
 		if (language == "IT"){
 			newurl = window.location.protocol + "//" + window.location.host + window.location.pathname + '?lang=en';
@@ -81,7 +81,6 @@ function sample() {
 			tpl = tpl_material_source_it;
 			data = "../../../assets/data/sample/" + mat_id + "/" + sam_id + "_it.json";
 		}
-		console.log(url)
 		handlebars(tpl,data)
 	}
 }

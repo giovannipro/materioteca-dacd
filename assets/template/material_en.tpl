@@ -113,7 +113,7 @@
 
 	<ul class="material_detail">
 
-		<li><div><h3>Thechical characteristics</h3></div></li>
+		<li><div><h3>Technical characteristics</h3></div></li>
 
 		<li>
 			<div>Weight</div>
