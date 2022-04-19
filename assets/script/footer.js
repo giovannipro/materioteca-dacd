@@ -4,28 +4,38 @@ function footer() {
 	let tpl_source;
 	let data_source;
 
-	if (mat_id.length == 5){
-		tpl_source = "../../../assets/template/footer.tpl";
-		data_source = "../../../assets/data/website/footer.json";
+	const tpl_source_it = "../../../assets/template/footer_it.tpl";
+	const data_source_it = "../../../assets/data/website/footer_it.json";
+
+	const tpl_source_en = "../../../assets/template/footer_en.tpl";
+	const data_source_en = "../../../assets/data/website/footer_en.json";
+
+	if (mat_id.length == 5){ 
+		tpl_source = "../../../assets/template/footer_it.tpl";
+		data_source = "../../../assets/data/website/footer_it.json";
 	}
 	else if (mat_id.length == 3) { // home
-		tpl_source = "assets/template/footer.tpl";
-		data_source = "assets/data/website/footer.json";
+		tpl_source = "assets/template/footer_it.tpl";
+		data_source = "assets/data/website/footer_it.json";
 	}
 	else {
-		tpl_source = "../../assets/template/footer.tpl";
-		data_source = "../../assets/data/website/footer.json";
+		tpl_source = "../../assets/template/footer_it.tpl";
+		data_source = "../../assets/data/website/footer_it.json";
 	}
 
 	const target = "#footer";
 
-	$.get(tpl_source, function(tpl) {
-		$.getJSON(data_source, function(data) {
+	function handlebars_footer(tpl_,data_){
+		$.get(tpl_, function(tpl) {
+			$.getJSON(data_, function(data) {
 
-			let template = Handlebars.compile(tpl); 
-			$(target).html(template(data));
+				let template = Handlebars.compile(tpl); 
+				$(target).html(template(data));
+			});
 		});
-	});
+	}
+
+	handlebars_footer(tpl_source_it,data_source_it)
 }
 
 Handlebars.registerHelper('logo', function (value) {

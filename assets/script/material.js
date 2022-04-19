@@ -33,7 +33,11 @@ function materials() {
 			// console.log(language,tpl_,data_)
 
 			switch_.setAttribute("data-lang","IT");
-			switch_.innerHTML = "ENG"
+			switch_.innerHTML = "ENG";
+
+			// footer
+			// handlebars_footer(tpl_source_it,data_source_it)
+
 		}
 		else {
 			if (language == "it"){
@@ -42,6 +46,9 @@ function materials() {
 				
 				switch_.setAttribute("data-lang","IT");
 				switch_.innerHTML = "ENG"
+
+				// footer
+				// handlebars_footer(tpl_source_it,data_source_it)
 			}
 			else if (language == "en"){
 				tpl_ = "../../assets/template/material_en.tpl";
@@ -49,6 +56,9 @@ function materials() {
 				
 				switch_.setAttribute("data-lang","EN");
 				switch_.innerHTML = "ITA"
+
+				// footer
+				// handlebars_footer(tpl_source_en,data_source_en)
 			}
 		}
 		// console.log(language)
