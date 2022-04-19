@@ -66,7 +66,7 @@
 		</li>
 
 		<li>
-			<div>Shapes</div>
+			<div>Form</div>
 			<div>
 			<ul>
 				<li>
@@ -81,7 +81,7 @@
 		</li>
 
 		<li>
-			<div>Proprierties</div>
+			<div>Properties</div>
 			<div>
 			<ul>
 				<li>
@@ -96,7 +96,7 @@
 		</li>
 
 		<li>
-			<div>Finishing</div>
+			<div>Finishes</div>
 			<div>
 			<ul>
 				<li>
@@ -116,17 +116,17 @@
 		<li><div><h3>Thechical characteristics</h3></div></li>
 
 		<li>
-			<div>Specific weight</div>
+			<div>Weight</div>
 			<div>{{peso}} N/m<sup>3</sup></div>
 		</li>
 
 		<li>
-			<div>Density</div>
+			<div>Mass</div>
 			<div>{{massa}} Kg/m<sup>3</sup></div>
 		</li>
 
 		<li>
-			<div>Resistenza a compressione</div>
+			<div>Strength</div>
 			<div>{{resistenza}} Mpa</div>
 		</li>
 	</ul>
@@ -135,7 +135,7 @@
 
 
 	<ul class="list">
-		<li><div><h3>Complementi</h3></div></li>
+		<li><div><h3>Links</h3></div></li>
 
 		{{#each link}}
 		<li>
@@ -151,7 +151,7 @@
 	{{!-- campioni --}}
 
 	<div id="samples">
-		<div class="title"><h3>Campioni</h3></div>
+		<div class="title"><h3>Samples</h3></div>
 
 		{{#each prodotto}}
 		<div class="sample">

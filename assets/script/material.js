@@ -62,7 +62,7 @@ function materials() {
 	function switch_it(){
 
 		let language = switch_.getAttribute("data-lang");
-		console.log(language)
+		// console.log(language)
 
 		if (language == "IT"){
 			newurl = window.location.protocol + "//" + window.location.host + window.location.pathname + '?lang=en';
