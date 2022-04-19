@@ -29,7 +29,6 @@ function sample() {
 		if (!language){
 			tpl_ = "../../../assets/template/sample_it.tpl";
 			data_ = "../../../assets/data/sample/" + mat_id + "/" + sam_id + "_it.json";
-			console.log(language);
 
 			switch_.setAttribute("data-lang","IT");
 			switch_.innerHTML = "ENG"
@@ -41,7 +40,6 @@ function sample() {
 				
 				switch_.setAttribute("data-lang","IT");
 				switch_.innerHTML = "ENG";
-				console.log(language)
 			}
 			else if (language == "en"){
 				tpl_ = "../../../assets/template/sample_en.tpl";
@@ -49,7 +47,6 @@ function sample() {
 				
 				switch_.setAttribute("data-lang","EN");
 				switch_.innerHTML = "ITA"
-				console.log(language)
 			}
 		}
 		handlebars(tpl_,data_);

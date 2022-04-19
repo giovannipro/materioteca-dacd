@@ -7,7 +7,7 @@ const tpl_material_source_en = "../../assets/template/material_en.tpl";
 function materials() {
 
 	const mat_id = document.title.split(" ")[0];
-	const gray = "#3c3c3c";
+	// const gray = "#3c3c3c";
 
 	const target = "#material";
 

@@ -1,0 +1,25 @@
+{
+	"azienda": [{
+		"id": 23538,
+		"nome": "Cave di Arzo",
+		"indirizzo": "via cave di Marmo 16, CH-6864 Arzo",
+		"telefono":"+41 79 324 28 02",
+		"mail":"info@cavediarzo.ch",
+		"sito_web": 
+		{
+			"nome":"www.cavediarzo.ch",
+			"link":"https://www.cavediarzo.ch/"
+		},
+		"prodotto": [{
+				"id": 23346,
+				"id_prodotto": 23546,
+				"nome": "Marmo delle Cave di Arzo",
+				"descrizione": "roccia metamorfica creata dalla trasforamzione di rocce sedimentarie. Il colore dei marmi dipende dalla presenza di impurità minerali contenute nella roccia originaria",
+				"immagine": {
+					"didascalia": "",
+					"link": "23346_Borcatello_quadro"
+				}
+			}
+		]
+	}]
+}

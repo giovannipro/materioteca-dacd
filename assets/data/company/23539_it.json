@@ -1,0 +1,25 @@
+{
+	"azienda": [{
+		"id": 23539,
+		"nome": "Cristallina SA",
+		"indirizzo": "CH-6695 Peccia",
+		"telefono":"+41 91 755 12 21",
+		"mail":"info@cristallinamarmo.ch",
+		"sito_web": 
+		{
+			"nome":"www.cristallinamarmo.ch",
+			"link":"https://www.cristallinamarmo.ch/"
+		},
+		"prodotto": [{
+				"id": 23545,
+				"id_prodotto": 23545,
+				"nome": "Marmo Cristallina Fantastico",
+				"descrizione": "Marmo di colore grigio con venature bianche",
+				"immagine": {
+					"didascalia": "dettaglio marmo Cristallina Fantastico",
+					"link": "23540_Cristallina_Fantastico_quadro"
+				}
+			}
+		]
+	}]
+}
