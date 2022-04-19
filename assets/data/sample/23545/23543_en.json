@@ -8,7 +8,7 @@
 			"nome": "Cristallina SA",
 			"id": 23539
 		},
-		"descrizione": "Marmo bianco caratterizzato da macchie nere",
+		"descrizione": "White marble with black spots",
 		"immagine": {
 			"didascalia": "marmo Cristallina Black and White",
 			"link": "23543_Cristallina_Black_and_White_quadro"
@@ -42,7 +42,7 @@
 					"fila": 5
 				},
 				"immagine": {
-					"didascalia": "dettaglio marmo Cristallina Black and White",
+					"didascalia": "detail marmo Cristallina Black and White",
 					"link": "23543_Cristallina Black and White_quadro"
 				},
 				"prestito": false

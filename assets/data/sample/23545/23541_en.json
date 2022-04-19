@@ -8,7 +8,7 @@
 			"nome": "Cristallina SA",
 			"id": 23539
 		},
-		"descrizione": "Marmo bianco caratterizzato da macchie nere",
+		"descrizione": "Marble characterised by green veins",
 		"immagine": {
 			"didascalia": "marmo Cristallina Green",
 			"link": "23541_Cristallina_Green_quadro"
@@ -105,7 +105,7 @@
 				},
 				"peso": "1000 – 5000",
 				"collocazione": {
-					"luogo": "Parete A",
+					"luogo": "parete A",
 					"fila": 4
 				},
 				"immagine": {

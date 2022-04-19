@@ -8,7 +8,7 @@
 			"nome": "Cristallina SA",
 			"id": 23539
 		},
-		"descrizione": "Marmo di colore bianco avoro con venature bianche",
+		"descrizione": "Ivory-white marble with white veining",
 		"immagine": {
 			"didascalia": "",
 			"link": "23340_Cristallina_Ivory_quadro"
@@ -38,7 +38,7 @@
 				},
 				"peso": "1000 – 5000",
 				"collocazione": {
-					"luogo": "parere A",
+					"luogo": "parete A",
 					"fila": 4
 				},
 				"immagine": {
@@ -55,7 +55,7 @@
 				},
 				"peso": "1000 – 5000",
 				"collocazione": {
-					"luogo": "Parete A",
+					"luogo": "parete A",
 					"fila": 4
 				},
 				"immagine": {
@@ -72,7 +72,7 @@
 				},
 				"peso": "1000 – 5000",
 				"collocazione": {
-					"luogo": "Scaffale D2",
+					"luogo": "scaffale D2",
 					"fila": 2
 				},
 				"immagine": {
@@ -89,7 +89,7 @@
 				},
 				"peso": "1000 – 5000",
 				"collocazione": {
-					"luogo": "Scaffale D2",
+					"luogo": "scaffale D2",
 					"fila": 2
 				},
 				"immagine": {
@@ -106,7 +106,7 @@
 				},
 				"peso": "1000 – 5000",
 				"collocazione": {
-					"luogo": "Scaffale D2",
+					"luogo": "scaffale D2",
 					"fila": 2
 				},
 				"immagine": {
@@ -123,7 +123,7 @@
 				},
 				"peso": "1000 – 5000",
 				"collocazione": {
-					"luogo": "Scaffale D2",
+					"luogo": "scaffale D2",
 					"fila": 2
 				},
 				"immagine": {
@@ -140,7 +140,7 @@
 				},
 				"peso": "1000 – 5000",
 				"collocazione": {
-					"luogo": "Scaffale D2",
+					"luogo": "scaffale D2",
 					"fila": 1
 				},
 				"immagine": {

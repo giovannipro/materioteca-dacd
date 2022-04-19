@@ -8,9 +8,9 @@
 			"nome": "Cristallina SA",
 			"id": 23539
 		},
-		"descrizione": "Marmo caratterizzato da un particolare colore viola e venature grigio chiaro",
+		"descrizione": "Marble characterised by a distinctive purple colour and light grey veins",
 		"immagine": {
-			"didascalia": "dettaglio marmo Cristallina Violet",
+			"didascalia": "detail marmo Cristallina Violet",
 			"link": "23542_Cristallina_Violet_quadro"
 		},
 		"item": [{
@@ -25,7 +25,7 @@
 					"fila": 5
 				},
 				"immagine": {
-					"didascalia": "dettaglio marmo Cristallina Violet",
+					"didascalia": "detail marmo Cristallina Violet",
 					"link": "23542_Cristallina Violet_quadro"
 				},
 				"prestito": false

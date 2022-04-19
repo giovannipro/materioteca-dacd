@@ -8,7 +8,7 @@
 			"nome": "Cave di Arzo",
 			"id": 23538
 		},
-		"descrizione": "Breccia calcarea di colore rosso intenso e omogeneo con alcune venature di bianco",
+		"descrizione": "Breccia calcarea eterogenea di colorazione sfumata verso il grigio",
 		"immagine": {
 			"didascalia": "",
 			"link": "23350_Macchiavecchia_grigia_quadro"
@@ -21,7 +21,7 @@
 			},
 			"peso": "1000 – 5000",
 			"collocazione": {
-				"luogo": "parere A",
+				"luogo": "parete A",
 				"fila": 2
 			},
 			"immagine": {
