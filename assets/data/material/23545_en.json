@@ -6,74 +6,74 @@
 		"azienda": [{
 			"id": 23539,
 			"nome": "Cristallina SA",
-			"relazione": "Distribuited by",
+			"relazione": "Distributed by",
 			"indirizzo": "CH-6695 Peccia"
 		}],
 		"info": [{
-			"materiale": "ceramico",
-			"materiale_dettaglio": "pietra naturale",
-			"descrizione": "Roccia metamorfica creata dalla trasforamzione di rocce sedimentarie. Il colore dei marmi dipende dalla presenza di impurità minerali contenute nella roccia originaria.",
+			"materiale": "ceramic",
+			"materiale_dettaglio": "natural stone",
+			"descrizione": "Metamorphic rock created by the transformation of sedimentary rocks. The colour of marbles depends on the presence of mineral impurities contained in the original rock.",
 			"applicazioni": [
 				"facade",
-				"parete interna",
-				"pavimento interno",
-				"pavimento esterno",
+				"interior wall",
+				"interior floor",
+				"external floor",
 				"",
-				"arredamento interno",
-				"bagno",
-				"cucina"
+				"interior design",
+				"bathroom",
+				"kitchen"
 			],
 			"forme": [
-				"lastre",
-				"blocchi"
+				"slabs",
+				"blocks"
 			],
 			"peso": "24'520 - 27'470",
 			"massa": "2'707",
 			"resistenza": "61",
 			"proprieta": [
-				"rigido",
-				"compatto",
-				"decorativo",
-				"naturale"
+				"rigid",
+				"compact",
+				"decorative",
+				"natural"
 			],
 			"finiture": [
-				"sabbiato",
-				"satinato",
-				"levigato",
-				"lucidato"
+				"sandblasted",
+				"satin",
+				"honed",
+				"polished"
 			]
 		}],
 		"link": [
 			{
-				"nome": "Technical sheet",
+				"nome": "Features data sheet",
 				"link": "https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/Certificato-CE-cristallina-IT.pdf"
 			},
 			{
-				"nome": "Scheda tecnica sulle lavorazioni",
+				"nome": "Processing data sheet",
 				"link": "https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/scheda-lavorazioni-prodotti-IT.pdf"
 			}
 		],
 		"prodotto": [{
 				"id": 23540,
 				"nome": "Marmo Cristallina Fantastico",
-				"descrizione": "Marmo di colore grigio con venature bianche",
+				"descrizione": "Grey marble with white veins",
 				"immagine": {
-					"didascalia": "dettaglio marmo Cristallina Fantastico",
+					"didascalia": "detail marmo Cristallina Fantastico",
 					"link": "23540_Cristallina_Fantastico_quadro"
 				}
 			},
 			{
 				"id": 23542,
 				"nome": "Marmo Cristallina Violet",
-				"descrizione": "Marmo caratterizzato da un particolare colore viola e venature grigio chiaro",
+				"descrizione": "Marble characterised by a distinctive purple colour and light grey veins",
 				"immagine": {
-					"didascalia": "dettaglio marmo Cristallina Violet",
+					"didascalia": "detail marmo Cristallina Violet",
 					"link": "23542_Cristallina_Violet_quadro"
 				}
 			}, {
 				"id": 23339,
 				"nome": "Marmo Cristallina Pearl - Grey",
-				"descrizione": "Marmo caratterizzato da tonalità grigia con venature marroni",
+				"descrizione": "Marble characterised by a grey tone with brown veins",
 				"immagine": {
 					"didascalia": "marmo Cristallina Pearl-Grey",
 					"link": "23339_Cristallina_Pearl_Grey_quadro"
@@ -81,7 +81,7 @@
 			}, {
 				"id": 23543,
 				"nome": "Marmo Cristallina Black and White",
-				"descrizione": "Marmo bianco caratterizzato da macchie nere",
+				"descrizione": "White marble with black spots",
 				"immagine": {
 					"didascalia": "marmo Cristallina Black and White",
 					"link": "23543_Cristallina_Black_and_White_quadro"
@@ -90,7 +90,7 @@
 			{
 				"id": 23541,
 				"nome": "Marmo Cristallina Green",
-				"descrizione": "Marmo bianco caratterizzato da macchie nere",
+				"descrizione": "Marble characterised by green veins",
 				"immagine": {
 					"didascalia": "marmo Cristallina Green",
 					"link": "23541_Cristallina_Green_quadro"
@@ -99,7 +99,7 @@
 			{
 				"id": 23340,
 				"nome": "Marmo Cristallina Ivory",
-				"descrizione": "Marmo di colore bianco avoro con venature bianche",
+				"descrizione": "Ivory-white marble with white veining",
 				"immagine": {
 					"didascalia": "",
 					"link": "23340_Cristallina_Ivory_quadro"
@@ -108,7 +108,7 @@
 			{
 				"id": 23544,
 				"nome": "Marmo Cristallina Arabescato",
-				"descrizione": "Marmo caratterizzato da un fondo di colore bianco cristallino con venature grigie",
+				"descrizione": "Marble characterised by a crystalline white background with grey veins",
 				"immagine": {
 					"didascalia": "",
 					"link": "23544_Cristallina_Arabescato_quadro"
@@ -117,7 +117,7 @@
 			{
 				"id": 23338,
 				"nome": "Marmo Cristallina White",
-				"descrizione": "Marmo caratterizzato da un fondo di colore bianco caldo con venature grigie chiare, scure e marroni",
+				"descrizione": "Marble characterised by a warm white background with light, dark and brown grey veins",
 				"immagine": {
 					"didascalia": "",
 					"link": "23338_Cristallina_White_quadro"
@@ -126,7 +126,7 @@
 			{
 				"id": 23341,
 				"nome": "Marmo Cristallina Brown",
-				"descrizione": "Marmo caratterizzato da un colore marrone caldo e venature bianche",
+				"descrizione": "Marble characterised by a warm brown colour and white veining",
 				"immagine": {
 					"didascalia": "",
 					"link": "23341_Cristallina_Brown_quadro"

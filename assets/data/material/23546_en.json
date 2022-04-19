@@ -6,47 +6,47 @@
 		"azienda": [{
 			"id": 23538,
 			"nome": "Cave di Arzo",
-			"relazione": "Distribuited by",
+			"relazione": "Distributed by",
 			"indirizzo": "via cave di Marmo 16, CH-6695 Peccia"
 		}],
 		"info": [{
 			"materiale": "ceramic",
 			"materiale_dettaglio": "natural stone",
-			"descrizione": "Metamorphic rock created by the transformation of sedimentary rocks. The color of marbles depends on the presence of mineral impurities contained in the original rock.",
+			"descrizione": "Metamorphic rock created by the transformation of sedimentary rocks. The colour of marbles depends on the presence of mineral impurities contained in the original rock.",
 			"applicazioni": [
-				"pavimento interno",
-				"",
 				"interior floor",
+				"",
+				"interior design",
 				"bathroom",
 				"kitchen"
 			],
 			"forme": [
-				"lastre",
-				"blocchi"
+				"slabs",
+				"blocks"
 			],
 			"peso": "24'520 - 27'470",
 			"massa": "2'600 - 2'900",
 			"resistenza": "75 - 240",
 			"proprieta": [
-				"rigido",
-				"compatto",
-				"decorativo",
-				"naturale"
+				"rigid",
+				"compact",
+				"decorative",
+				"natural"
 			],
 			"finiture": [
-				"sabbiato",
-				"bocciardato",
-				"spacco naturale"
+				"sandblasted",
+				"bush-hammered",
+				"natural split"
 			]
 		}],
 		"link": [{
-			"nome": "Tipologie e colorazioni del marmo di Arzo",
+			"nome": "Types and colours of Arzo marble",
 			"link": "http://patriziatoarzo.ch/marmo-arzo-artigianato/marmo-di-arzo/"
 		}],
 		"prodotto": [{
 				"id": 23346,
 				"nome": "Marmo Brocatello di Arzo",
-				"descrizione": "Breccia calcarea di colore rosato omogeneo",
+				"descrizione": "Homogeneous pinkish-coloured limestone",
 				"immagine": {
 					"didascalia": "",
 					"link": "23346_Borcatello_quadro"
@@ -55,7 +55,7 @@
 			{
 				"id": 23345,
 				"nome": "Marmo Rosso d'Arzo",
-				"descrizione": "Breccia calcarea di colore rosato omogeneo",
+				"descrizione": "Homogeneous deep red limestone with some white veins",
 				"immagine": {
 					"didascalia": "",
 					"link": "23345_Rosso_dArzo_quadro"
@@ -64,7 +64,7 @@
 			{
 				"id": 23508,
 				"nome": "Marmo Macchiavecchia rossa",
-				"descrizione": "Breccia calcarea eterogenea di colorazione sfumata verso il rosso",
+				"descrizione": "Heterogeneous limestone with colouring shading towards red",
 				"immagine": {
 					"didascalia": "",
 					"link": "23508_Macchiavecchia_rossa_quadro"
@@ -73,7 +73,7 @@
 			{
 				"id": 23348,
 				"nome": "Marmo Macchiavecchia gialla",
-				"descrizione": "Breccia calcarea eterogenea di colorazione sfumata verso il giallo",
+				"descrizione": "Heterogeneous limestone with a colouring shading towards yellow",
 				"immagine": {
 					"didascalia": "",
 					"link": "23348_Macchiavecchia_gialla_quadro"
@@ -82,7 +82,7 @@
 			{
 				"id": 23350,
 				"nome": "Marmo Macchiavecchia grigia",
-				"descrizione": "Breccia calcarea eterogenea di colorazione sfumata verso il grigio",
+				"descrizione": "Heterogeneous limestone with a colouring shading towards grey",
 				"immagine": {
 					"didascalia": "",
 					"link": "23350_Macchiavecchia_grigia_quadro"

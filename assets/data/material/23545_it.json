@@ -12,7 +12,7 @@
 		"info": [{
 			"materiale": "ceramico",
 			"materiale_dettaglio": "pietra naturale",
-			"descrizione": "Roccia metamorfica creata dalla trasforamzione di rocce sedimentarie. Il colore dei marmi dipende dalla presenza di impurità minerali contenute nella roccia originaria.",
+			"descrizione": "Roccia metamorfica creata dalla trasformazione di rocce sedimentarie. Il colore dei marmi dipende dalla presenza di impurità minerali contenute nella roccia originaria.",
 			"applicazioni": [
 				"facciata",
 				"parete interna",
@@ -45,7 +45,7 @@
 		}],
 		"link": [
 			{
-				"nome": "Scheda tecnica sulle caratteristiche",
+				"nome": "Scheda tecnica sulle carattristiche",
 				"link": "https://www.cristallinamarmo.ch/wp-content/uploads/2021/05/Certificato-CE-cristallina-IT.pdf"
 			},
 			{
@@ -65,7 +65,7 @@
 			{
 				"id": 23542,
 				"nome": "Marmo Cristallina Violet",
-				"descrizione": "Marmo caratterizzato da un particolare colore viola e venature grigio chiaro",
+				"descrizione": "Marmo caratterizzato da un particolare colore viola e venature grigio chiaro.",
 				"immagine": {
 					"didascalia": "dettaglio marmo Cristallina Violet",
 					"link": "23542_Cristallina_Violet_quadro"
@@ -90,7 +90,7 @@
 			{
 				"id": 23541,
 				"nome": "Marmo Cristallina Green",
-				"descrizione": "Marmo bianco caratterizzato da macchie nere",
+				"descrizione": "Marmo caratterizzato da venature verdi",
 				"immagine": {
 					"didascalia": "marmo Cristallina Green",
 					"link": "23541_Cristallina_Green_quadro"
@@ -99,7 +99,7 @@
 			{
 				"id": 23340,
 				"nome": "Marmo Cristallina Ivory",
-				"descrizione": "Marmo di colore bianco avoro con venature bianche",
+				"descrizione": "Marmo di colore bianco avorio con venature bianche",
 				"immagine": {
 					"didascalia": "",
 					"link": "23340_Cristallina_Ivory_quadro"
