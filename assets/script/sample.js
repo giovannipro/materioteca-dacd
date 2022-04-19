@@ -85,7 +85,7 @@ function sample() {
 	}
 }
 
-Handlebars.registerHelper('loan', function (value,lang) {
+Handlebars.registerHelper('loan', function (value) {
 	let language = switch_.getAttribute("data-lang");
 
 	if (value == true){
